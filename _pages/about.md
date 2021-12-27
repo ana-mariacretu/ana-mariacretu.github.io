@@ -15,11 +15,15 @@ Prior to starting my PhD, I obtained an MSc in Computer Science from EPFL, Switz
 In the summer of 2020, I was a research intern at Twitter (London, UK) in the graph learning team. I worked with Dr. Davide Eynard on the privacy of Twitter graph data. In 2017, I did a summer internship at Google (Boulder, Colorado, USA), in the Payments Compliance Engineering Team, where I was supervised by Craig Wright. In 2016, I did a 5-month internship at Google (Paris, France), where I was supervised by Dr. Sertan Girgin.
 
 # Publications
-\* denotes first authorship.
+\* denotes joint first authorship.
 
 <ol reversed>
   <li>
-    Jain S.*, <b>Cretu A.-M.*</b> and de Montjoye Y.-A. Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning. <i> 31st USENIX Security Symposium (USENIX Security 22) </i> <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain">[Paper]</a> <a href="https://arxiv.org/abs/2106.09820">[Extended arXiv version]</a>
+   <b>Crețu A.-M.</b>, Monti F., Maronne S., Dong X., Bronstein M. and de Monjoye Y.-A. Interaction data are identifiable even across long periods of time. <i> To appear (2022) </i>.
+  </li>
+  
+  <li>
+    Jain S.*, <b>Crețu A.-M.*</b> and de Montjoye Y.-A. Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning. <i> 31st USENIX Security Symposium (USENIX Security 22) </i> <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain">[Paper]</a> <a href="https://arxiv.org/abs/2106.09820">[Extended arXiv version]</a>
   </li>
   
   <li> 
