@@ -17,12 +17,16 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
 # Publications
 
 <ol reversed>
-  <li> 
-    Kocijan V., Camburu O.-M., <b>Crețu A.-M.</b>, Yordanov Y., Blunsom P. and Lukasiewicz T. WikiCREM: A Large Unsupervised Corpus for Coreference Resolution. <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (2019)</i> <a href="https://aclanthology.org/D19-1439/">Paper</a> 
+  <li>
+   Jain S., Cretu A.-M. and de Montjoye Y.-A. Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning. <i> 31st USENIX Security Symposium (USENIX Security 22) </i>. <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain">[Paper]</a> <a href="https://arxiv.org/abs/2106.09820">[Extended arXiv version]</a>
   </li>
   
   <li> 
-    Kocijan V., <b>Crețu A.-M.</b>, Camburu O.-M., Yordanov Y. and Lukasiewicz T. A Surprisingly Robust Trick for the Winograd Schema Challenge. <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)</i> <a href="https://aclanthology.org/P19-1478/">Paper</a>
+    Kocijan V., Camburu O.-M., <b>Crețu A.-M.</b>, Yordanov Y., Blunsom P. and Lukasiewicz T. WikiCREM: A Large Unsupervised Corpus for Coreference Resolution. <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (2019)</i> <a href="https://aclanthology.org/D19-1439/">[Paper]</a> 
+  </li>
+  
+  <li> 
+    Kocijan V., <b>Crețu A.-M.</b>, Camburu O.-M., Yordanov Y. and Lukasiewicz T. A Surprisingly Robust Trick for the Winograd Schema Challenge. <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)</i> <a href="https://aclanthology.org/P19-1478/">[Paper]</a>
   </li>
 </ol>
 
