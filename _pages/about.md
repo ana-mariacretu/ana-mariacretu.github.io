@@ -47,7 +47,7 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
 
 <ol reversed>
   <li>
-   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Dataset correlation inference attacks against machine learning models. <i> arXiv preprint (2022)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
+   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Dataset correlation inference attacks against machine learning models. <i> arXiv preprint (2021)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
   </li>
   
  </ol>
