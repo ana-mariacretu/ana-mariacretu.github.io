@@ -14,8 +14,10 @@ Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Swit
 
 In the summer of 2020, I was a research intern at Twitter (London, UK) in the graph learning team. I worked with Dr. Davide Eynard on the privacy of Twitter graph data. In 2017, I did a summer internship at Google (Boulder, Colorado, USA), in the Payments Compliance Engineering Team, where I was supervised by Craig Wright. In 2016, I did a 5-month internship at Google (Paris, France), where I was supervised by Dr. Sertan Girgin.
 
-# Publications {#publications}
+# Research {#research}
 \* denotes joint first authorship.
+
+## Publications
 
 <ol reversed>
   <li>
@@ -41,3 +43,11 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
   </li>
 </ol>
 
+## Preprints
+
+<ol reversed>
+  <li>
+   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Dataset correlation inference attacks against machine learning models. <i> arXiv preprint (2022)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
+  </li>
+  
+ </ol>
