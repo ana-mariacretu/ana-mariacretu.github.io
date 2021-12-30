@@ -52,10 +52,10 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
   
  </ol>
 
-# Other {#other}
+# Awards {#awards}
 
 <ul>
-  <li> I am a recipient of the <a href="https://www.epfl.ch/education/studies/en/financing-study/grants/excellence-fellowships/"><i>EPFL Excellence Fellowship</i></a>, which generously supported my studies at EPFL.</li>
+  <li> I am a recipient of the <a href="https://www.epfl.ch/education/studies/en/financing-study/grants/excellence-fellowships/">EPFL Excellence Fellowship</a>, which generously supported my studies at EPFL.</li>
   <li> My studies in France were supported by a competitive full scholarship from the <i>Fondation Odon Vallet</i>, and by a scholarship from the <i> Fondation de l'Ecole Polytechnique</i>.</li>
   <li> I was born and grew up in Romania. There, I participated at many mathematics contests, including the Romanian National Olympiad, where I won one gold medal, three silver medals and one bronze medal.</li>
 </ul>
