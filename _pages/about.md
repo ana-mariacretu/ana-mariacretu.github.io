@@ -52,7 +52,7 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
   
  </ol>
 
-# Other
+# Other {#other}
 
 <ul>
   <li> I am a recipient of the _EPFL Excellence Scholarship_, which generously supported my studies at EPFL.</li>
