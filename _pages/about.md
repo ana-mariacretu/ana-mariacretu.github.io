@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research interests lie at the intersection between (1) machine learning and (2) privacy and security. I study vulnerabilities in behavioral datasets and data processing systems such as machine learning models, query-based systems and client-side scanning through the lens of automated attacks. Specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. The impact of my research is to increase awareness about existing privacy vulnerabilities in data processing systems. Through a rigurous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
+I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research interests lie at the intersection between (1) machine learning and (2) privacy and security. I study vulnerabilities in behavioral datasets and data processing systems such as machine learning models, query-based systems and client-side scanning through the lens of automated attacks. Specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. Through a rigurous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
 
 Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Switzerland](https://www.epfl.ch/en/), and the _Diplome d'Ingénieur de l'Ecole Polytechnique_ (equivalent to a Bachelors and Master’s degree) from [Ecole Polytechnique, France](https://www.polytechnique.edu/en). At Ecole Polytechnique, I studied Pure and Applied Mathematics and Computer Science, and specialized in Data Science. Towards completion of my EPFL MSc degree, I did my Master Thesis in the Department of Computer Science at the University of Oxford under the supervision of [Prof. Thomas Lukasiewicz](https://www.cs.ox.ac.uk/people/thomas.lukasiewicz/), and in close collaboration with [Dr. Oana-Maria Camburu](https://www.cs.ox.ac.uk/people/oana-maria.camburu/). My research there was on 1) developing deep learning-based approaches to solve the Winograd Schema Challenge and 2) developing sentence representation models with the goal of improving interpretability and performance on a set of benchmark natural language processing tasks.
 
@@ -51,3 +51,11 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
   </li>
   
  </ol>
+
+# Other
+
+<ul>
+  <li> I am a recipient of the _EPFL Excellence Scholarship_, which generously supported my studies at EPFL.</li>
+  <li> My studies in France were supported by a competitive full scholarship from the foundation "Odon Vallet", and by a scholarship from the Alumni Association of Ecole Polytechnique (l'AX).</li>
+  <li> I was born and grew up in Romania. There, I participated at many mathematics contests, including the Romanian National Olympiad, where I won one gold medal, three silver medals and one bronze medal.</li>
+</ul>
