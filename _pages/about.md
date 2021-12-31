@@ -50,7 +50,7 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
   
  </ol>
 
-# Awards {#awards}
+# Awards and scholarships {#awards}
 
 <ul>
   <li> I am a recipient of the <a href="https://www.epfl.ch/education/studies/en/financing-study/grants/excellence-fellowships/">EPFL Excellence Fellowship</a> (awarded to students with outstanding academic records), which generously supported my studies at EPFL.</li>
