@@ -19,7 +19,7 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
   <li>
-   <b>Crețu A.-M.</b>, Monti F., Marrone S., Dong X., Bronstein M. and de Montjoye Y.-A. Interaction data are identifiable even across long periods of time. <i> Nat Communications 13, 313 (2022).</i> <a href="https://doi.org/10.1038/s41467-021-27714-6">[Paper]</a>
+   <b>Crețu A.-M.</b>, Monti F., Marrone S., Dong X., Bronstein M. and de Montjoye Y.-A. Interaction data are identifiable even across long periods of time. <i> Nature Communications 13, 313 (2022).</i> <a href="https://doi.org/10.1038/s41467-021-27714-6">[Paper]</a>
     <ul>
       <li> Presented at the ACM CCS Privacy Preserving Machine Learning 2021 workshop  (<a href="https://ppml-workshop.github.io/">PPML 2021</a>). <b><font color="red">Contributed talk.</font></b> </li>
       <li> Presented at the NeurIPS Privacy and Machine Learning 2021 workshop (<a href="https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21873">PriML 2021</a>).</li>
