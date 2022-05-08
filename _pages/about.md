@@ -21,8 +21,6 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
 02/05/2022: I started an internship at Microsoft Research in the Confidential Computing group, working with [Shruti Tople](https://www.microsoft.com/en-us/research/people/shtople/) and [Daniel Jones](https://www.microsoft.com/en-us/research/people/jonesdaniel/).
 
 30/03/2022: I presented my paper [Interaction data are identifiable even across long periods of time](https://doi.org/10.1038/s41467-021-27714-6) at the Privacy and Security Seminar, check out [this link](https://prisec-ml.github.io/students_ecrs/) for the recording.
-  
-</ul>
 
 # Research {#research}
 ## Publications
