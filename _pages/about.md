@@ -22,6 +22,8 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 11/08/2022: This week, I attended the USENIX Security '22 conference in Boston. I presented <a href="https://arxiv.org/abs/2106.09820"> my paper </a> on evaluating the robustness of perceptual hashing-based client-side scanning systems.
 
+ <img src="../images/usenix-talk.jpg" alt="Usenix Security talk" width="500" height="300">
+
 22/07/2022: I completed my internship in Microsoft Research's Confidential Computing team and I am now back at Imperial! More updates on the work coming soon.
 
 13/07/2022: I received a diversity grant from the USENIX association for attending the USENIX Security '22 conference in Boston!
