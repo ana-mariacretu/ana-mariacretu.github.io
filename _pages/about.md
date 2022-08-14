@@ -10,7 +10,7 @@ redirect_from:
 
 <b><font color="red">NEW:</font></b> This summer I will be doing an internship in the Confidential Computing group at Microsoft Research.
 
-I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research interests lie at the intersection between (1) machine learning and (2) privacy and security. I study vulnerabilities in behavioral datasets and data processing systems such as machine learning models, query-based systems and client-side scanning through the lens of automated attacks. Specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. Through a rigurous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
+I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research interests lie at the intersection between (1) machine learning and (2) privacy and security. I study vulnerabilities in behavioral datasets and data processing systems such as machine learning models, query-based systems and client-side scanning through the lens of automated attacks. Specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
 
 Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Switzerland](https://www.epfl.ch/en/), and the _Diplome d'Ingénieur de l'Ecole Polytechnique_ (equivalent to a Bachelors and Master’s degree) from [Ecole Polytechnique, France](https://www.polytechnique.edu/en). At Ecole Polytechnique, I studied Pure and Applied Mathematics and Computer Science, and specialized in Data Science. Towards completion of my EPFL MSc degree, I did my Master Thesis in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) under the supervision of [Prof. Thomas Lukasiewicz](https://www.cs.ox.ac.uk/people/thomas.lukasiewicz/), and in close collaboration with [Dr. Oana-Maria Camburu](https://www.cs.ox.ac.uk/people/oana-maria.camburu/). My research there was on 1) developing deep learning-based approaches to solve the Winograd Schema Challenge and 2) developing sentence representation models with the goal of improving interpretability and performance on a set of benchmark natural language processing tasks.
 
@@ -18,7 +18,13 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
 
 # News {#news}
 
-02/05/2022: I started an internship at Microsoft Research in the Confidential Computing group, working with [Shruti Tople](https://www.microsoft.com/en-us/research/people/shtople/) and [Daniel Jones](https://www.microsoft.com/en-us/research/people/jonesdaniel/).
+11/08/2022: This week, I attended the USENIX Security '22 conference in Boston. I presented <a href="https://arxiv.org/abs/2106.09820"> my paper </a> on evaluating the robustness of perceptual hashing-based client-side scanning systems.
+
+22/07/2022: I completed my internship in Microsoft Research's Confidential Computing team and I am now back at Imperial!
+
+13/07/2022: I received a diversity grant from the USENIX association for attending the USENIX Security '22 conference in Boston!
+
+02/05/2022: I started an internship at Microsoft Research in the Confidential Computing team, working with [Shruti Tople](https://www.microsoft.com/en-us/research/people/shtople/) and [Daniel Jones](https://www.microsoft.com/en-us/research/people/jonesdaniel/).
 
 30/03/2022: I presented my paper [Interaction data are identifiable even across long periods of time](https://doi.org/10.1038/s41467-021-27714-6) at the Privacy and Security Seminar, check out [this link](https://prisec-ml.github.io/students_ecrs/) for the recording.
 
@@ -26,6 +32,11 @@ In the summer of 2020, I was a research intern at Twitter (London, UK) in the gr
 ## Publications
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
+    <li>
+   <b>Crețu A.-M.*</b>, Houssiau, F.*, Cully, A. and de Montjoye Y.-A. QuerySnout : Automating the discovery of attribute inference
+attacks against query-based systems. <i> To appear in ACM CCS 2022.</i>
+  </li>
+  
   <li>
    <b>Crețu A.-M.</b>, Monti F., Marrone S., Dong X., Bronstein M. and de Montjoye Y.-A. Interaction data are identifiable even across long periods of time. <i> Nature Communications 13, 313 (2022).</i> <a href="https://doi.org/10.1038/s41467-021-27714-6">[Paper]</a>
     <ul>
