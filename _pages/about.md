@@ -20,7 +20,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 11/08/2022: Check out our <a href="https://cpg.doc.ic.ac.uk/blog/deephash-not-robust-to-detection-avoidance/">new blogpost </a> on the effectiveness of black-box evasion attacks against deep perceptual hashing models.
 
-11/08/2022: This week, I attended the USENIX Security '22 conference in Boston. I presented <a href="https://arxiv.org/abs/2106.09820"> my paper </a> on evaluating the robustness of perceptual hashing-based client-side scanning systems.
+11/08/2022: This week, I attended the USENIX Security '22 conference in Boston. I presented <a href="https://arxiv.org/abs/2106.09820">my paper</a> on evaluating the robustness of perceptual hashing-based client-side scanning systems.
 
  <img src="../images/usenix-talk.jpg" alt="Usenix Security talk" width="500" height="300">
 
