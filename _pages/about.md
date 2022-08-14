@@ -10,7 +10,7 @@ redirect_from:
 
 <b><font color="red">JOB ALERT:</font></b> I am looking for postdoctoral positions starting early next year.
 
-I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research interests lie at the intersection between machine learning, privacy and security. I study vulnerabilities in behavioral datasets and data processing systems such as machine learning models, query-based systems and client-side scanning through the lens of automated attacks. Specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
+I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research interests lie at the intersection between machine learning, privacy and security. I study vulnerabilities in behavioral datasets and data processing systems such as machine learning models, query-based systems, and client-side scanning through the lens of automated attacks. Specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
 
 Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Switzerland](https://www.epfl.ch/en/), and the _Diplome d'Ingénieur de l'Ecole Polytechnique_ (equivalent to a Bachelors and Master’s degree) from [Ecole Polytechnique, France](https://www.polytechnique.edu/en). At Ecole Polytechnique, I studied Pure and Applied Mathematics and Computer Science, and specialized in Data Science. Towards completion of my EPFL MSc degree, I did my Master Thesis in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) under the supervision of [Prof. Thomas Lukasiewicz](https://www.cs.ox.ac.uk/people/thomas.lukasiewicz/), and in close collaboration with [Dr. Oana-Maria Camburu](https://www.cs.ox.ac.uk/people/oana-maria.camburu/). My research there was on 1) developing deep learning-based approaches to solve the Winograd Schema Challenge and 2) developing sentence representation models with the goal of improving interpretability and performance on a set of benchmark natural language processing tasks.
 
@@ -24,7 +24,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
  <img src="../images/usenix-talk.jpg" alt="Usenix Security talk" width="500" height="300">
 
-22/07/2022: I completed my internship in Microsoft Research's Confidential Computing team and I am now back at Imperial! More updates on the work coming soon.
+22/07/2022: I completed my internship in Microsoft Research's Confidential Computing team and I am now back at Imperial! I will soon share more updates on the work.
 
 13/07/2022: I received a diversity grant from the USENIX association for attending the USENIX Security '22 conference in Boston!
 
@@ -83,6 +83,6 @@ attacks against query-based systems. <i> To appear in ACM CCS 2022.</i>
 <ul>
   <li> I am recipient of the USENIX '22 Diversity grant, which generously supported my trip to the conference in Boston. </li>
   <li> I am a recipient of the <a href="https://www.epfl.ch/education/studies/en/financing-study/grants/excellence-fellowships/">EPFL Excellence Fellowship</a> (awarded to students with outstanding academic records), which generously supported my studies at EPFL.</li>
-  <li> My studies in France were supported by a competitive 2-year full scholarship from the <i>Fondation Odon Vallet</i>, and by a 2.5-year scholarship from the <i> Fondation de l'Ecole Polytechnique</i>.</li>
-  <li> I was born and grew up in Romania. There, I participated in many mathematics contests, including the Romanian National Olympiad, where I won one gold medal, three silver medals and one bronze medal.</li>
+  <li> My studies in France were supported by a competitive 2-year full scholarship from the <i>Fondation Odon Vallet</i> and by a 2.5-year scholarship from the <i> Fondation de l'Ecole Polytechnique</i>.</li>
+  <li> I was born and grew up in Romania. There, I participated in many mathematics contests, including the Romanian National Olympiad, where I won one gold medal, three silver medals, and one bronze medal.</li>
 </ul>
