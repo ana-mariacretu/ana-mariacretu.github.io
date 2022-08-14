@@ -46,7 +46,7 @@ attacks against query-based systems. <i> To appear in ACM CCS 2022.</i>
     <ul>
       <li> Presented at the ACM CCS Privacy Preserving Machine Learning 2021 workshop  (<a href="https://ppml-workshop.github.io/">PPML 2021</a>). <b><font color="red">Contributed talk.</font></b> </li>
       <li> Presented at the NeurIPS Privacy and Machine Learning 2021 workshop (<a href="https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21873">PriML 2021</a>).</li>
-      <li> Featured in: <a href="https://www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network">Science News.</a></li>
+      <li> Featured in <a href="https://www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network">Science News.</a></li>
     </ul>
   </li>
   
@@ -56,7 +56,7 @@ attacks against query-based systems. <i> To appear in ACM CCS 2022.</i>
       <li> Presented at the NeurIPS Privacy and Machine Learning 2021 workshop (<a href="https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21873">PriML 2021</a>).</li>
       <li> Presented at the Conference on Applied Machine Learning for Information Security 2021 (<a href="https://www.camlis.org/">CAMLIS 2021</a>). <b><font color="red">Oral presentation.</font></b></li>
       <li> Presented as a talk at the 14th Workshop on Hot Topics in Privacy Enhancing Technologies (<a href="https://petsymposium.org/2021/hotpets.php">HotPETS 2021</a>).</li>
-      <li> Featured in: <a href="https://www.imperial.ac.uk/news/231778/proposed-illegal-image-detectors-devices-easily/">Imperial College London News.</a></li>
+      <li> Featured in <a href="https://www.imperial.ac.uk/news/231778/proposed-illegal-image-detectors-devices-easily/">Imperial College London News.</a></li>
     </ul>
   </li>
   
