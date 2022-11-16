@@ -16,7 +16,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 # News {#news}
 
-09/11/2022: This week, I attended the ACM CCS 2022 conference in Los Angeles, USA. I presented <a href="https://dl.acm.org/doi/abs/10.1145/3548606.3560581">my paper</a> "QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems".
+09/11/2022: This week, I attended the ACM CCS 2022 conference in Los Angeles, USA. I presented my paper <a href="https://dl.acm.org/doi/abs/10.1145/3548606.3560581">QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems</a>.
 
 11/08/2022: Check out our <a href="https://cpg.doc.ic.ac.uk/blog/deephash-not-robust-to-detection-avoidance/">new blogpost </a> on the effectiveness of black-box evasion attacks against deep perceptual hashing models.
 
