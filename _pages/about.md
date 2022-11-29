@@ -38,7 +38,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 <ol reversed>
     <li>
    <b>Crețu A.-M.*</b>, Houssiau, F.*, Cully, A. and de Montjoye Y.-A. QuerySnout: Automating the discovery of attribute inference
-attacks against query-based systems. <i> ACM CCS 2022.</i> <a href="https://dl.acm.org/doi/10.1145/3548606.3560581"> [Paper] </a> <a href="https://arxiv.org/abs/2106.09820">[Extended arXiv version]</a>
+attacks against query-based systems. <i> ACM CCS 2022.</i> <a href="https://dl.acm.org/doi/10.1145/3548606.3560581"> [Paper] </a> <a href="https://arxiv.org/abs/2211.05249">[Extended arXiv version]</a>
   </li>
   
   <li>
