@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research interests lie at the intersection between machine learning, privacy, and security. I study vulnerabilities in behavioral datasets and data processing systems (machine learning models, query-based systems, and client-side scanning) through the lens of automated attacks. More specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
+I am a final year PhD candidate in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research lies at the intersection between machine learning, privacy, and security. I study vulnerabilities in behavioral datasets and data processing systems (including machine learning models, query-based systems, and client-side scanning) through the lens of automated attacks. More specifically, I use machine learning and evolutionary algorithms to develop novel attacks against such systems. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
 
 Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Switzerland](https://www.epfl.ch/en/), and the _Diplome d'Ingénieur de l'Ecole Polytechnique_ (equivalent to a Bachelors and Master’s degree) from [Ecole Polytechnique, France](https://www.polytechnique.edu/en). At Ecole Polytechnique, I studied Pure and Applied Mathematics and Computer Science, and specialized in Data Science. Towards completion of my EPFL MSc degree, I did my Master Thesis in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) under the supervision of [Prof. Thomas Lukasiewicz](https://www.cs.ox.ac.uk/people/thomas.lukasiewicz/), and in close collaboration with [Dr. Oana-Maria Camburu](https://www.cs.ox.ac.uk/people/oana-maria.camburu/). My research there was on 1) developing deep learning-based approaches to solve the Winograd Schema Challenge and on 2) developing sentence representation models with the goal of improving interpretability and performance on a set of benchmark natural language processing tasks.
 
@@ -38,7 +38,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 <ol reversed>
     <li>
    <b>Crețu A.-M.*</b>, Houssiau, F.*, Cully, A. and de Montjoye Y.-A. QuerySnout: Automating the discovery of attribute inference
-attacks against query-based systems. <i> ACM CCS 2022.</i> <a href="https://dl.acm.org/doi/10.1145/3548606.3560581"> [Paper] </a> <a href="https://arxiv.org/abs/2211.05249">[Extended arXiv version]</a>
+attacks against query-based systems. <i> ACM CCS 2022.</i> <a href="https://dl.acm.org/doi/10.1145/3548606.3560581"> [Paper] </a> <a href="https://arxiv.org/abs/2211.05249">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querysnout">[Code]</a>
   </li>
   
   <li>
