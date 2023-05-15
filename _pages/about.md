@@ -20,6 +20,8 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 10/05/2023: I gave a talk about the limits of anonymisation and automating attacks against query-based systems at the Centre for Data Ethics and Innovation.
 
+03/04/2023: Our paper "Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition" has been accepted at the IEEE S&P 2023 conference!
+
 20/02/2023: I presented my work at the probability and statistics seminar of the University of Bourgogne France-Comte (Besancon).
 
 09/11/2022: This week, I attended the ACM CCS 2022 conference in Los Angeles, USA. I presented my paper <a href="https://dl.acm.org/doi/abs/10.1145/3548606.3560581">QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems</a>.
@@ -42,7 +44,11 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 ## Publications
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
-    <li>
+  <li>
+   Jain S., <b>Crețu A.-M.</b>, Cully, A. and de Montjoye Y.-A. Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition. To be presented at IEEE S&P 2023.
+  </li>
+ 
+   <li>
    <b>Crețu A.-M.*</b>, Houssiau, F.*, Cully, A. and de Montjoye Y.-A. QuerySnout: Automating the discovery of attribute inference
 attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22).</i> <a href="https://dl.acm.org/doi/10.1145/3548606.3560581"> [Paper] </a> <a href="https://arxiv.org/abs/2211.05249">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querysnout">[Code]</a>
   </li>
