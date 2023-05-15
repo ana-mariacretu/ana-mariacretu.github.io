@@ -16,7 +16,11 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 # News {#news}
 
-20/02/2022: I presented my work at the probability and statistics seminar of the University of Bourgogne France-Comte (Besancon).
+12/05/2023: I successfully defended my PhD thesis! I am grateful to my examiners Prof. Vitaly Shmatikov and Prof. Emil Lupu for their feedback.
+
+10/05/2023: I gave a talk about the limits of anonymisation and automating attacks against query-based systems at the Centre for Data Ethics and Innovation.
+
+20/02/2023: I presented my work at the probability and statistics seminar of the University of Bourgogne France-Comte (Besancon).
 
 09/11/2022: This week, I attended the ACM CCS 2022 conference in Los Angeles, USA. I presented my paper <a href="https://dl.acm.org/doi/abs/10.1145/3548606.3560581">QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems</a>.
 
