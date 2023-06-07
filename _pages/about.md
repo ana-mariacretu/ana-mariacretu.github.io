@@ -18,7 +18,9 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 12/05/2023: I successfully defended my PhD thesis! I am grateful to my examiners Prof. Vitaly Shmatikov and Prof. Emil Lupu for their feedback.
 
-10/05/2023: I gave a talk about the limits of anonymisation and automating attacks against query-based systems at the Centre for Data Ethics and Innovation.
+10/05/2023: I gave a talk about my research at the Centre for Data Ethics and Innovation.
+
+26/04/2023: I gave a talk about my research at the Computer Science Brunel PhD Symposium.
 
 03/04/2023: Our paper "Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition" has been accepted at the IEEE S&P 2023 conference!
 
@@ -40,12 +42,14 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 30/03/2022: I presented my paper [Interaction data are identifiable even across long periods of time](https://doi.org/10.1038/s41467-021-27714-6) at the Privacy and Security Seminar, check out [this link](https://prisec-ml.github.io/students_ecrs/) for the recording.
 
+11/08/2021: I presented my work on evaluating the robustness of perceptual hashing-based client-side scanning to adversarial attacks at the UK-SPS seminar.
+
 # Research {#research}
 ## Publications
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
   <li>
-   Jain S., <b>Crețu A.-M.</b>, Cully, A. and de Montjoye Y.-A. Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition. To be presented at IEEE S&P 2023.
+   Jain S., <b>Crețu A.-M.</b>, Cully, A. and de Montjoye Y.-A. Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition. In 2023 IEEE Symposium on Security and Privacy (SP). <a href="https://www.computer.org/csdl/proceedings-article/sp/2023/933600a234/1NrbXDL6b2U"> [Paper] </a>
   </li>
  
    <li>
