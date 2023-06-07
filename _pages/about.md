@@ -22,7 +22,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 26/04/2023: I gave a talk about my research at the Computer Science Brunel PhD Symposium.
 
-03/04/2023: Our paper "Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition" has been accepted at the IEEE S&P 2023 conference!
+03/04/2023: Our paper <a href="https://www.computer.org/csdl/proceedings-article/sp/2023/933600a234/1NrbXDL6b2U"> Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition </a> has been accepted at the IEEE S&P 2023 conference!
 
 20/02/2023: I presented my work at the probability and statistics seminar of the University of Bourgogne France-Comte (Besancon).
 
