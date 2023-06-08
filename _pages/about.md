@@ -42,7 +42,11 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 30/03/2022: I presented my paper [Interaction data are identifiable even across long periods of time](https://doi.org/10.1038/s41467-021-27714-6) at the Privacy and Security Seminar, check out [this link](https://prisec-ml.github.io/students_ecrs/) for the recording.
 
-11/08/2021: I presented my work on evaluating the robustness of perceptual hashing-based client-side scanning to adversarial attacks at the UK-SPS seminar.
+11/08/2021: I presented my work on evaluating the robustness of perceptual hashing-based client-side scanning to adversarial attacks at the UK-SPS seminar. Check out [this link](https://www.youtube.com/watch?v=-EWHECuzxqc&feature=youtu.be) for the recording.
+
+19/11/2021: I gave a contributed talk at the PPML 2021 workshop on my paper [Interaction data are identifiable even across long periods of time](https://doi.org/10.1038/s41467-021-27714-6), check out [this link](https://www.youtube.com/watch?v=OSK_UxgWvwI&list=PLinLKsNhv3WttP_iJEJ7vX-5pSVY13QCN) for the recording.
+
+04/11/2021: I gave a talk at the CAMLIS 2021 conference on my paper <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain"> Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning </a>, which was selected for a full talk.
 
 # Research {#research}
 ## Publications
@@ -89,7 +93,7 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 
 <ol reversed>
   <li>
-   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Dataset correlation inference attacks against machine learning models. <i> arXiv preprint (2021)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
+   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation Inference Attacks against Machine Learning Models. <i> arXiv preprint (2021)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
   </li>
   
  </ol>
