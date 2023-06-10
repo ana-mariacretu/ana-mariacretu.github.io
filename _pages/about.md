@@ -54,6 +54,12 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 <ol reversed>
   <li>
    Jain S., <b>Crețu A.-M.</b>, Cully, A. and de Montjoye Y.-A. Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition. In 2023 IEEE Symposium on Security and Privacy (SP). <a href="https://www.computer.org/csdl/proceedings-article/sp/2023/933600a234/1NrbXDL6b2U"> [Paper] </a>
+   <ul>
+       <li> Featured in 
+        <a href="https://www.imperial.ac.uk/news/244952/tech-mandated-online-safety-bill-could/"> Imperial News</a>
+        and 
+        <a href="https://www.lesoir.be/517145/article/2023-06-02/comment-leurope-entend-scanner-nos-conversations-privees-sur-whatsapp-ou-signal">Le soir</a>. </li>
+   </ul>
   </li>
  
    <li>
@@ -73,10 +79,14 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
   <li>
     Jain S.*, <b>Crețu A.-M.*</b> and de Montjoye Y.-A. Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning. <i> 31st USENIX Security Symposium (USENIX Security 22) </i> <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain">[Paper]</a> <a href="https://arxiv.org/abs/2106.09820">[Extended arXiv version]</a>
     <ul>
+      <li> Cited by Ofcom (UK's communications regulator) in their <a href="https://www.ofcom.org.uk/research-and-data/online-research/overview-of-perceptual-hashing-technology"> Overview of Perceptual Hashing Technology </a> report.
       <li> Presented at the NeurIPS Privacy and Machine Learning 2021 workshop (<a href="https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21873">PriML 2021</a>).</li>
       <li> Presented at the Conference on Applied Machine Learning for Information Security 2021 (<a href="https://www.camlis.org/">CAMLIS 2021</a>). <b><font color="red">Oral presentation.</font></b></li>
       <li> Presented as a talk at the 14th Workshop on Hot Topics in Privacy Enhancing Technologies (<a href="https://petsymposium.org/2021/hotpets.php">HotPETS 2021</a>).</li>
-      <li> Featured in <a href="https://www.imperial.ac.uk/news/231778/proposed-illegal-image-detectors-devices-easily/">Imperial College London News.</a></li>
+      <li> Featured in 
+       <a href="https://www.imperial.ac.uk/news/231778/proposed-illegal-image-detectors-devices-easily/">Imperial College London News</a> 
+       and
+       <a href="https://www.lesoir.be/517145/article/2023-06-02/comment-leurope-entend-scanner-nos-conversations-privees-sur-whatsapp-ou-signal"> Le soir</a>. 
     </ul>
   </li>
   
