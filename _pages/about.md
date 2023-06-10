@@ -103,6 +103,10 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 
 <ol reversed>
   <li>
+   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Re-aligning Shadow Models can Improve White-box Membership Inference Attacks. <i> arXiv preprint (2023)</i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[arXiv]</a>
+  </li>
+ 
+  <li>
    <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation Inference Attacks against Machine Learning Models. <i> arXiv preprint (2021)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
   </li>
   
