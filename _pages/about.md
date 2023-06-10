@@ -87,6 +87,7 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
        <a href="https://www.imperial.ac.uk/news/231778/proposed-illegal-image-detectors-devices-easily/">Imperial College London News</a> 
        and
        <a href="https://www.lesoir.be/517145/article/2023-06-02/comment-leurope-entend-scanner-nos-conversations-privees-sur-whatsapp-ou-signal"> Le soir</a>. 
+     </li>
     </ul>
   </li>
   
