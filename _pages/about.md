@@ -72,7 +72,8 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
     <ul>
       <li> Presented at the ACM CCS Privacy Preserving Machine Learning 2021 workshop  (<a href="https://ppml-workshop.github.io/">PPML 2021</a>). <b><font color="red">Contributed talk.</font></b> </li>
       <li> Presented at the NeurIPS Privacy and Machine Learning 2021 workshop (<a href="https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21873">PriML 2021</a>).</li>
-      <li> Featured in <a href="https://www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network">Science News.</a></li>
+      <li> Featured in <a href="https://techcrunch.com/2022/02/24/implement-differential-privacy-to-power-up-data-sharing-and-cooperation/">TechCrunch</a> and <a href="https://www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network">Science News.</a>
+      </li>
     </ul>
   </li>
   
