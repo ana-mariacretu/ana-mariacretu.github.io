@@ -16,9 +16,11 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 # News {#news}
 
-14/06/2023: 
+14/06/2023: I presented my [Re-aligning Shadow Models can Improve White-box Membership Inference Attacks](https://arxiv.org/pdf/2306.05093.pdf) paper at the PPML workshop in Paris.
 
-14/06/2023: I presented the QuerySnout tool and attended a panel on re-identification at the CNIL Privacy Day. Three of my other papers were presented by my collaborators on the other panels, two of which examine the robustness of perceptual hashing-based client-side scanning and a third one demonstrating correlation leakages in ML models.
+14/06/2023: I presented the QuerySnout tool and attended a panel on re-identification at the [CNIL Privacy Research Day](https://www.cnil.fr/en/call-papers-privacy-research-day-2023) event in Paris. Three of my other papers were presented by my collaborators on the other panels, two of which examine the robustness of perceptual hashing-based client-side scanning and a third one demonstrating correlation leakages in ML models.
+
+08/06/2023: New preprint available: [Re-aligning Shadow Models can Improve White-box Membership Inference Attacks](https://arxiv.org/pdf/2306.05093.pdf).
 
 12/05/2023: I successfully defended my PhD thesis! I am grateful to my examiners Prof. Vitaly Shmatikov and Prof. Emil Lupu for their feedback.
 
