@@ -65,6 +65,8 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
         <a href="https://www.imperial.ac.uk/news/244952/tech-mandated-online-safety-bill-could/"> Imperial News</a>
         and 
         <a href="https://www.lesoir.be/517145/article/2023-06-02/comment-leurope-entend-scanner-nos-conversations-privees-sur-whatsapp-ou-signal">Le soir</a>. </li>
+       <li> Cited as evidence in the <a href="https://haddadi.github.io/UKOSBOpenletter.pdf">Open Letter from Security and Privacy Researchers in relation to the Online Safety Bill</a>.
+       </li>
    </ul>
   </li>
  
