@@ -16,7 +16,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 # News {#news}
 
-24/07/2023: Last week I visited Prof. Thorsten Strufe and his research group at KIT, spending a wonderful week in Karlsruhe.
+24/07/2023: This week I visited Prof. Thorsten Strufe and his research group at KIT, spending a wonderful week in Karlsruhe.
 
 11/07/2023: I participated in a panel on Data Protection in an AI-Driven World organised by the UK Internet Governance Forum, talking about how we can evaluate the privacy risks of AI models.
 
