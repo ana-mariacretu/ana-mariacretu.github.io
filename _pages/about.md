@@ -69,15 +69,15 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
    <li>
-   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In 18th DPM International Workshop on Data Privacy Management (DPM 2023). <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a>
+   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a>
   </li>
 
    <li>
-   Meeus, M., Guépin, F., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In 28th European Symposium on Research in Computer Security (ESORICS 2023) <a href="https://arxiv.org/abs/2306.10308">[Paper]</a>
+   Meeus, M., Guépin, F., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In <i>28th European Symposium on Research in Computer Security (ESORICS 2023).</i> <a href="https://arxiv.org/abs/2306.10308">[Paper]</a>
   </li>
   
   <li>
-   Jain S., <b>Crețu A.-M.</b>, Cully, A. and de Montjoye Y.-A. Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition. In 2023 IEEE Symposium on Security and Privacy (SP). <a href="https://www.computer.org/csdl/proceedings-article/sp/2023/933600a234/1NrbXDL6b2U"> [Paper] </a>
+   Jain S., <b>Crețu A.-M.</b>, Cully, A. and de Montjoye Y.-A. Deep perceptual hashing algorithms with hidden dual-purpose: when client-side scanning does facial recognition. In <i>2023 IEEE Symposium on Security and Privacy (SP).</i> <a href="https://www.computer.org/csdl/proceedings-article/sp/2023/933600a234/1NrbXDL6b2U"> [Paper] </a>
    <ul>
        <li> Featured in 
         <a href="https://www.imperial.ac.uk/news/244952/tech-mandated-online-safety-bill-could/"> Imperial News</a>
