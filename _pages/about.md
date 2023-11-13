@@ -8,6 +8,9 @@ redirect_from:
 - /about.html
 ---
 
+I am a postdoc jointly at EPFL's [SPRING Lab](https://spring.epfl.ch/), headed by Prof. Carmela Troncoso, and the Cyber-Defense (CYD) Campus in Lausanne, Switzerland. I am generously funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the CYD Campus where my main collaborator is Dr. Raphael Meier.
+
+
 I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research lies at the intersection between machine learning, privacy, and security. I study privacy and security vulnerabilities in data processing technologies: machine learning models, query-based systems, and perceptual hashing-based client-side scanning, through the lens of automated attacks. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
 
 Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Switzerland](https://www.epfl.ch/en/), and the _Diplome d'Ingénieur de l'Ecole Polytechnique_ (equivalent to a Bachelors and Master’s degree) from [Ecole Polytechnique, France](https://www.polytechnique.edu/en). At Ecole Polytechnique, I studied Pure and Applied Mathematics and Computer Science, and specialized in Data Science. Towards completion of my EPFL MSc degree, I did my Master Thesis in the [Department of Computer Science](https://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/) under the supervision of [Prof. Thomas Lukasiewicz](https://www.cs.ox.ac.uk/people/thomas.lukasiewicz/), and in close collaboration with [Dr. Oana-Maria Camburu](https://www.cs.ox.ac.uk/people/oana-maria.camburu/). My research there was on 1) developing deep learning-based approaches to solve the Winograd Schema Challenge and on 2) developing sentence representation models with the goal of improving interpretability and performance on a set of benchmark natural language processing tasks.
@@ -15,6 +18,8 @@ Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Swit
 In the summer of 2022, I was a research intern in the Microsoft Research Confidential Computing team (Cambridge, UK). I worked on the privacy of machine learning models with Shruti Tople and Daniel Jones. In the summer of 2020, I was a research intern at Twitter (London, UK) in the graph learning team. I worked with Dr. Davide Eynard on the privacy of Twitter graph data. In 2017, I did a summer internship at Google (Boulder, Colorado, USA), in the Payments Compliance Engineering Team, where I was supervised by Craig Wright. In 2016, I did a 5-month internship at Google (Paris, France), where I was supervised by Dr. Sertan Girgin.
 
 # News {#news}
+
+01/11/2023: I started a postdoc at Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland. I am part of the [SPRING Lab](https://spring.epfl.ch/) headed by Prof. Carmela Troncoso. I am generously funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the Swiss Cyberdefense Campus where my main collaborator is Dr. Raphael Meier.
 
 24/07/2023: This week I visited Prof. Thorsten Strufe and his research group at KIT, spending a wonderful week in Karlsruhe.
 
@@ -69,7 +74,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
    <li>
-   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a>
+   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://arxiv.org/pdf/2307.01701">[Paper]</a>
   </li>
 
    <li>
