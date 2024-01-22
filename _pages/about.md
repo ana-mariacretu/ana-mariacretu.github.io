@@ -10,6 +10,7 @@ redirect_from:
 
 I am a postdoc jointly at EPFL's [SPRING Lab](https://spring.epfl.ch/), headed by Prof. Carmela Troncoso, and the Cyber-Defense (CYD) Campus in Lausanne, Switzerland. I am generously funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the CYD Campus where my main collaborator is Dr. Raphael Meier.
 
+How to reach me: https://people.epfl.ch/ana-maria.cretu/
 
 I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research lies at the intersection between machine learning, privacy, and security. I study privacy and security vulnerabilities in data processing technologies: machine learning models, query-based systems, and perceptual hashing-based client-side scanning, through the lens of automated attacks. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
 
