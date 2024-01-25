@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a postdoc jointly at EPFL's [SPRING Lab](https://spring.epfl.ch/), headed by Prof. Carmela Troncoso, and the Cyber-Defense (CYD) Campus in Lausanne, Switzerland. I am generously funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the CYD Campus where my main collaborator is Dr. Raphael Meier.
+I am a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL, headed by Prof. Carmela Troncoso. My position is funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the Cyber-Defense Campus, where my main collaborator is Dr. Raphael Meier.
 
 I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). My research lies at the intersection between machine learning, privacy, and security. I study privacy and security vulnerabilities in data processing technologies: machine learning models, query-based systems, and perceptual hashing-based client-side scanning, through the lens of automated attacks. Through a rigorous study of privacy vulnerabilities, my research can inform the design of principled countermeasures allowing to prevent them and, ultimately, to use data safely.
 
@@ -17,6 +17,8 @@ Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Swit
 In the summer of 2022, I was a research intern in the Microsoft Research Confidential Computing team (Cambridge, UK). I worked on the privacy of machine learning models with Shruti Tople and Daniel Jones. In the summer of 2020, I was a research intern at Twitter (London, UK) in the graph learning team. I worked with Dr. Davide Eynard on the privacy of Twitter graph data. In 2017, I did a summer internship at Google (Boulder, Colorado, USA), in the Payments Compliance Engineering Team, where I was supervised by Craig Wright. In 2016, I did a 5-month internship at Google (Paris, France), where I was supervised by Dr. Sertan Girgin.
 
 # News {#news}
+
+22/01/2024: I attended the discussion panel of the [Synthetic Data for Biomedical Applications](https://www.datascience.ch/event/synthetic-data-for-biomedical-applications) workshop organised by CHUV and the Swiss Data Science Center.
 
 01/11/2023: I started a postdoc at Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland. I am part of the [SPRING Lab](https://spring.epfl.ch/) headed by Prof. Carmela Troncoso. I am generously funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the Swiss Cyberdefense Campus where my main collaborator is Dr. Raphael Meier.
 
