@@ -18,6 +18,8 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 # News {#news}
 
+01/02/2024: My paper "Investiating the Effect of Misalignment on Membership Privacy in the White-box Setting" has been accepted at PoPETS 2024! The most recent version will be made available soon.
+
 22/01/2024: I attended the discussion panel of the [Synthetic Data for Biomedical Applications](https://www.datascience.ch/event/synthetic-data-for-biomedical-applications) workshop organised by CHUV and the Swiss Data Science Center.
 
 01/11/2023: I started a postdoc at Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland. I am part of the [SPRING Lab](https://spring.epfl.ch/) headed by Prof. Carmela Troncoso. I am generously funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the Swiss Cyberdefense Campus where my main collaborator is Dr. Raphael Meier.
@@ -75,11 +77,15 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
    <li>
+   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in PoPETS 2024. </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Earlier arXiv version]</a>
+  </li>
+ 
+   <li>
    Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://arxiv.org/pdf/2307.01701">[Paper]</a>
   </li>
 
    <li>
-   Meeus, M., Guépin, F., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In <i>28th European Symposium on Research in Computer Security (ESORICS 2023).</i> <a href="https://arxiv.org/abs/2306.10308">[Paper]</a>
+   Meeus, M., Guépin, F., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In <i>28th European Symposium on Research in Computer Security (ESORICS 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-51476-0_19">[Paper]</a>
   </li>
   
   <li>
@@ -132,9 +138,6 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 ## Preprints
 
 <ol reversed>
-  <li>
-   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Re-aligning Shadow Models can Improve White-box Membership Inference Attacks. <i> arXiv preprint (2023)</i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[arXiv]</a>
-  </li>
  
   <li>
    <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation Inference Attacks against Machine Learning Models. <i> arXiv preprint (2021)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
