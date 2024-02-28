@@ -18,7 +18,9 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 # News {#news}
 
-01/02/2024: My paper "Investiating the Effect of Misalignment on Membership Privacy in the White-box Setting" has been accepted at PoPETS 2024! The most recent version will be made available soon.
+26/02/2024: My paper "Re-pseudonymization strategies in smart meter data are not robust to deep learning profiling attacks" with Miruna Rusu and Yves-Alexandre de Montjoye has been accepted at CODASPY 2024. The paper will be out soon.
+
+01/02/2024: My paper "Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting" with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople has been accepted at PoPETS 2024! We'll make the most recent version available soon.
 
 22/01/2024: I attended the discussion panel of the [Synthetic Data for Biomedical Applications](https://www.datascience.ch/event/synthetic-data-for-biomedical-applications) workshop organised by CHUV and the Swiss Data Science Center.
 
