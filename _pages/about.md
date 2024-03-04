@@ -74,8 +74,8 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 04/11/2021: I gave a talk at the CAMLIS 2021 conference on my paper <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain"> Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning </a>, which was selected for a full talk.
 
-# Research {#research}
-## Publications
+# Publications {#publications}
+## Peer-reviewed articles
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
    <li>
