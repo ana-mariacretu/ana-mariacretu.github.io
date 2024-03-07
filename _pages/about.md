@@ -83,7 +83,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
   </li>
  
    <li>
-   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://arxiv.org/pdf/2307.01701">[Paper]</a>
+   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-54204-6_10">[Paper]</a>
   </li>
 
    <li>
