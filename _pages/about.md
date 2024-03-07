@@ -66,7 +66,7 @@ In the summer of 2022, I was a research intern in the Microsoft Research Confide
 
 02/05/2022: I started an internship at Microsoft Research in the Confidential Computing team, working with [Shruti Tople](https://www.microsoft.com/en-us/research/people/shtople/) and [Daniel Jones](https://www.microsoft.com/en-us/research/people/jonesdaniel/).
 
-30/03/2022: I presented my paper [Interaction data are identifiable even across long periods of time](https://doi.org/10.1038/s41467-021-27714-6) at the Privacy and Security Seminar, check out [this link](https://prisec-ml.github.io/students_ecrs/) for the recording.
+30/03/2022: I presented my paper [Interaction data are identifiable even across long periods of time](https://doi.org/10.1038/s41467-021-27714-6) at the Privacy and Security in ML Interest Group Seminar, check out [this link](https://prisec-ml.github.io/students_ecrs/) for the recording.
 
 11/08/2021: I presented my work on evaluating the robustness of perceptual hashing-based client-side scanning to adversarial attacks at the UK-SPS seminar. Check out [this link](https://www.youtube.com/watch?v=-EWHECuzxqc&feature=youtu.be) for the recording.
 
