@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <p>In August 2023, I taught a 2-hour class titled "Evaluating the privacy of data processing systems through inference attacks" at the 5th Interdisciplinary Summerschool
-on Privacy (<a href="https://isp.cs.ru.nl/2025/"> ISP 2023 </a>) in Berg en Dal, Netherlands.</p>
+on Privacy (<a href="https://isp.cs.ru.nl/2025/">ISP 2023</a>) in Berg en Dal, Netherlands.</p>
 
 
 <p>I have been a Teaching Assistant at Imperial College London for the following classes:</p>
