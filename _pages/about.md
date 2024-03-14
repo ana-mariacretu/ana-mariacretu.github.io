@@ -27,15 +27,15 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
    <li>
-   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in PoPETS 2024. </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a>
+   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in PoPETS 2024. </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a> <a href="https://github.com/microsoft/shadow-realignment-mia">[Code]</a>
   </li>
  
    <li>
-   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-54204-6_10">[Paper]</a>
+   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-54204-6_10">[Paper]</a> <a href="https://github.com/computationalprivacy/MIA-synthetic">[Code]</a>
   </li>
 
    <li>
-   Meeus, M., Guépin, F., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In <i>28th European Symposium on Research in Computer Security (ESORICS 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-51476-0_19">[Paper]</a>
+   Meeus, M., Guépin, F., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In <i>28th European Symposium on Research in Computer Security (ESORICS 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-51476-0_19">[Paper]</a> <a href="https://github.com/computationalprivacy/MIA-synthetic">[Code]</a>
   </li>
   
   <li>
