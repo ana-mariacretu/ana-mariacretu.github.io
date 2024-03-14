@@ -14,6 +14,9 @@ main:
 
   - title: "Bio"
     url: /bio/
+
+  - title: "News archive"
+    url: /news-archive/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
