@@ -20,6 +20,8 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 22/01/2024: I attended the discussion panel of the [Synthetic Data for Biomedical Applications](https://www.datascience.ch/event/synthetic-data-for-biomedical-applications) workshop organised by CHUV and the Swiss Data Science Center.
 
+More news [here](https://ana-mariacretu.github.io/news-archive/).
+
 # Publications {#publications}
 ## Peer-reviewed articles
 <small>\* denotes joint first authorship.</small>
