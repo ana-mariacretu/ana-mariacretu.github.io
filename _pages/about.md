@@ -16,7 +16,7 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 26/02/2024: My paper "Re-pseudonymization strategies in smart meter data are not robust to deep learning profiling attacks" with Miruna Rusu and Yves-Alexandre de Montjoye has been accepted at CODASPY 2024. The paper will be out soon.
 
-01/02/2024: My paper "Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting" with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople has been accepted at PoPETS 2024! We'll make the most recent version available soon.
+01/02/2024: My paper [Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting](https://arxiv.org/abs/2306.05093) with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople has been accepted at PoPETS 2024!
 
 22/01/2024: I attended the discussion panel of the [Synthetic Data for Biomedical Applications](https://www.datascience.ch/event/synthetic-data-for-biomedical-applications) workshop organised by CHUV and the Swiss Data Science Center.
 
@@ -25,7 +25,7 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
    <li>
-   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in PoPETS 2024. </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Earlier arXiv version]</a>
+   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in PoPETS 2024. </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a>
   </li>
  
    <li>
