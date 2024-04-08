@@ -14,7 +14,7 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
-26/02/2024: My paper "Re-pseudonymization strategies in smart meter data are not robust to deep learning profiling attacks" with Miruna Rusu and Yves-Alexandre de Montjoye has been accepted at CODASPY 2024. The paper will be out soon.
+26/02/2024: My paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://arxiv.org/abs/2404.03948) with Miruna Rusu and Yves-Alexandre de Montjoye has been accepted at CODASPY 2024.
 
 01/02/2024: My paper [Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting](https://arxiv.org/abs/2306.05093) with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople has been accepted at PoPETS 2024!
 
@@ -27,7 +27,11 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
    <li>
-   <b>Crețu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in PoPETS 2024. </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a> <a href="https://github.com/microsoft/shadow-realignment-mia">[Code]</a>
+   <b>Cretu A.-M.*</b>, Rusu, M.*, and de Montjoye Y.-A. Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks. <i> To appear in the Proceedings of the Fourteenth ACM Conference on Data and Application Security and Privacy (CODASPY '24). </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a> 
+  </li>
+   
+   <li>
+   <b>Cretu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in the Proceedings on Privacy Enhancing Technologies 2024(3) (PoPETS 2024). </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a> <a href="https://github.com/microsoft/shadow-realignment-mia">[Code]</a>
   </li>
  
    <li>
