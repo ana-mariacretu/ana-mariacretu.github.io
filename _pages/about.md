@@ -35,11 +35,11 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
   </li>
  
    <li>
-   Guépin, F., Meeus, M., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-54204-6_10">[Paper]</a> <a href="https://github.com/computationalprivacy/MIA-synthetic">[Code]</a>
+   Guépin, F.*, Meeus, M.*, <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data. In <i> 18th DPM International Workshop on Data Privacy Management (DPM 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-54204-6_10">[Paper]</a> <a href="https://github.com/computationalprivacy/MIA-synthetic">[Code]</a>
   </li>
 
    <li>
-   Meeus, M., Guépin, F., <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In <i>28th European Symposium on Research in Computer Security (ESORICS 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-51476-0_19">[Paper]</a> <a href="https://github.com/computationalprivacy/MIA-synthetic">[Code]</a>
+   Meeus, M.*, Guépin, F.*, <b>Crețu A.-M.</b>, and de Montjoye Y.-A. Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing. In <i>28th European Symposium on Research in Computer Security (ESORICS 2023).</i> <a href="https://link.springer.com/chapter/10.1007/978-3-031-51476-0_19">[Paper]</a> <a href="https://github.com/computationalprivacy/MIA-synthetic">[Code]</a>
   </li>
   
   <li>
