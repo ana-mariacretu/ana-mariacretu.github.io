@@ -26,6 +26,11 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 ## Peer-reviewed articles
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
+
+  <li>
+   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation inference attacks against machine learning models. <i> To appear in Science Advances </i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a> <a href="https://github.com/computationalprivacy/ml-correlation-inference">[Code]</a>
+  </li>
+   
    <li>
    <b>Cretu A.-M.*</b>, Rusu, M.*, and de Montjoye Y.-A. Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks. <i> To appear in the Proceedings of the Fourteenth ACM Conference on Data and Application Security and Privacy (CODASPY '24). </i> <a href="https://arxiv.org/abs/2404.03948">[Paper]</a> 
   </li>
@@ -92,10 +97,6 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 ## Preprints
 
 <ol reversed>
- 
-  <li>
-   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation Inference Attacks against Machine Learning Models. <i> arXiv preprint (2021)</i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a>
-  </li>
   
  </ol>
 
