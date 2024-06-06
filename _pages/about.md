@@ -14,9 +14,11 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
-26/02/2024: My paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://arxiv.org/abs/2404.03948) with Miruna Rusu and Yves-Alexandre de Montjoye has been accepted at CODASPY 2024.
+05/06/2024: New paper [Correlation inference attacks against machine learning models](https://arxiv.org/abs/2112.08806) accepted in Science Advances! Joint work with Florent Guépin and Yves-Alexandre de Montjoye.
 
-01/02/2024: My paper [Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting](https://arxiv.org/abs/2306.05093) with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople has been accepted at PoPETS 2024!
+26/02/2024: New paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://arxiv.org/abs/2404.03948) accepted at CODASPY 2024! Joint work with Miruna Rusu and Yves-Alexandre de Montjoye.
+
+01/02/2024: New paper [Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting](https://arxiv.org/abs/2306.05093) accepted at PoPETS 2024! Joint work with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople.
 
 22/01/2024: I attended the discussion panel of the [Synthetic Data for Biomedical Applications](https://www.datascience.ch/event/synthetic-data-for-biomedical-applications) workshop organised by CHUV and the Swiss Data Science Center.
 
