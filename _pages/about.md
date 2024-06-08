@@ -14,6 +14,8 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
+08/06/2024: New paper "A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data" accepted in PoPETS 2024! Joint work with Vincent Guan, Florent Guépin and Yves-Alexandre de Montjoye. 
+
 05/06/2024: New paper [Correlation inference attacks against machine learning models](https://arxiv.org/abs/2112.08806) accepted in Science Advances! Joint work with Florent Guépin and Yves-Alexandre de Montjoye.
 
 26/02/2024: New paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://arxiv.org/abs/2404.03948) accepted at CODASPY 2024! Joint work with Miruna Rusu and Yves-Alexandre de Montjoye.
