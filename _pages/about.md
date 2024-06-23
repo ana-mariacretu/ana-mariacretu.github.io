@@ -14,11 +14,13 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
+20/06/2024: Our paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.3653272) received the Best Paper Award at the ACM CODASPY '24 conference! 🏆📜 Miruna Rusu, co-first author on the paper, presented the work in Porto, Portugal. 
+
 08/06/2024: New paper "A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data" accepted in PoPETS 2024! Joint work with Vincent Guan, Florent Guépin and Yves-Alexandre de Montjoye. 
 
 05/06/2024: New paper [Correlation inference attacks against machine learning models](https://arxiv.org/abs/2112.08806) accepted in Science Advances! Joint work with Florent Guépin and Yves-Alexandre de Montjoye.
 
-26/02/2024: New paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://arxiv.org/abs/2404.03948) accepted at CODASPY 2024! Joint work with Miruna Rusu and Yves-Alexandre de Montjoye.
+26/02/2024: New paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.365327) accepted at ACM CODASPY '24! Joint work with Miruna Rusu and Yves-Alexandre de Montjoye.
 
 01/02/2024: New paper [Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting](https://arxiv.org/abs/2306.05093) accepted at PoPETS 2024! Joint work with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople.
 
@@ -37,6 +39,9 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
    
    <li>
    <b>Cretu A.-M.*</b>, Rusu, M.*, and de Montjoye Y.-A. Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks. In <i>Proceedings of the Fourteenth ACM Conference on Data and Application Security and Privacy (CODASPY '24).</i> <a href="https://dl.acm.org/doi/10.1145/3626232.3653272">[Paper]</a> <a href="https://arxiv.org/abs/2404.03948">[Extended arXiv version]</a> 
+     <ul>
+     <li> <b><font color="red">Recipient of a Best Paper Award at the ACM CODASPY '24 conference in Porto, Portugal.</font></b></li>
+     </ul>
   </li>
    
    <li>
@@ -107,7 +112,8 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 # Awards and scholarships {#awards}
 
 <ul>
-  <li> I am recipient of the USENIX '22 Diversity grant, which generously supported my trip to the conference in Boston. </li>
+  <li> I am a recipient of the Cyber-Defense Campus (CYD) Postdoctoral Fellowship, which generously supports my postdoctoral position in the SPRING Lab at EPFL. </li>
+  <li> I am a recipient of the USENIX '22 Diversity grant, which generously supported my trip to the conference in Boston. </li>
   <li> I am a recipient of the <a href="https://www.epfl.ch/education/studies/en/financing-study/grants/excellence-fellowships/">EPFL Excellence Fellowship</a> (awarded to students with outstanding academic records), which generously supported my studies at EPFL.</li>
   <li> My studies in France were supported by a competitive 2-year full scholarship from the <i>Fondation Odon Vallet</i> and by a 2.5-year scholarship from the <i> Fondation de l'Ecole Polytechnique</i>.</li>
   <li> I was born and grew up in Romania. There, I participated in many mathematics contests, including the Romanian National Olympiad, where I won one gold medal, three silver medals, and one bronze medal.</li>
