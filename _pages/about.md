@@ -40,7 +40,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
    <li>
    <b>Cretu A.-M.*</b>, Rusu, M.*, and de Montjoye Y.-A. Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks. In <i>Proceedings of the Fourteenth ACM Conference on Data and Application Security and Privacy (CODASPY '24).</i> <a href="https://dl.acm.org/doi/10.1145/3626232.3653272">[Paper]</a> <a href="https://arxiv.org/abs/2404.03948">[Extended arXiv version]</a> 
      <ul>
-     <li> Recipient of a <b><font color="red">Best Paper Award</font></b> at the ACM CODASPY '24 conference in Porto, Portugal.</li>
+     <li> Recipient of a <b><font color="red">Best paper award</font></b> at the ACM CODASPY '24 conference in Porto, Portugal.</li>
      </ul>
   </li>
    
