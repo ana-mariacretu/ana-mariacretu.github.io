@@ -16,7 +16,7 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 20/06/2024: Our paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.3653272) received the Best Paper Award at the ACM CODASPY '24 conference! 🏆📜 Miruna Rusu, co-first author on the paper, presented the work in Porto, Portugal. 
 
-08/06/2024: New paper "A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data" accepted in PoPETS 2024! Joint work with Vincent Guan, Florent Guépin and Yves-Alexandre de Montjoye. 
+08/06/2024: New paper [A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data](https://arxiv.org/abs/2406.18671) accepted in PoPETS 2024! Joint work with Vincent Guan, Florent Guépin and Yves-Alexandre de Montjoye. 
 
 05/06/2024: New paper [Correlation inference attacks against machine learning models](https://arxiv.org/abs/2112.08806) accepted in Science Advances! Joint work with Florent Guépin and Yves-Alexandre de Montjoye.
 
@@ -34,6 +34,10 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <ol reversed>
 
   <li>
+   Guan, V.*, Guépin F.*, <b>Crețu A.-M.</b> and de Montjoye Y.-A. A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data. To appear in <i> Proceedings on Privacy Enhancing Technologies 2024(4) (PoPETS 2024). </i> <a href="https://arxiv.org/abs/2406.18671">[arXiv]</a>
+  </li>
+
+  <li>
    <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation inference attacks against machine learning models. <i> To appear in Science Advances </i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a> <a href="https://github.com/computationalprivacy/ml-correlation-inference">[Code]</a>
   </li>
    
@@ -45,7 +49,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
   </li>
    
    <li>
-   <b>Cretu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. <i> To appear in the Proceedings on Privacy Enhancing Technologies 2024(3) (PoPETS 2024). </i> <a href="https://arxiv.org/pdf/2306.05093.pdf">[Paper]</a> <a href="https://github.com/microsoft/shadow-realignment-mia">[Code]</a>
+   <b>Cretu A.-M.</b>, Jones, D., de Montjoye Y.-A., and Tople, S. Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting. In <i> Proceedings on Privacy Enhancing Technologies 2024(3) (PoPETS 2024). </i> <a href="https://petsymposium.org/popets/2024/popets-2024-0085.php">[Paper]</a> <a href="https://github.com/microsoft/shadow-realignment-mia">[Code]</a>
   </li>
  
    <li>
