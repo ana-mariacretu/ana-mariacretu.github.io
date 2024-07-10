@@ -74,7 +74,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
  
    <li>
    <b>Crețu A.-M.*</b>, Houssiau, F.*, Cully, A. and de Montjoye Y.-A. QuerySnout: Automating the discovery of attribute inference
-attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22).</i> <a href="https://dl.acm.org/doi/10.1145/3548606.3560581"> [Paper] </a> <a href="https://arxiv.org/abs/2211.05249">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querysnout">[Code]</a>
+attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22).</i> <a href="https://dl.acm.org/doi/10.1145/3548606.3560581">[Paper]</a> <a href="https://arxiv.org/abs/2211.05249">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querysnout">[Code]</a>
   </li>
   
   <li>
