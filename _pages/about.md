@@ -118,7 +118,7 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 <ul>
   <li> I am a recipient of the Cyber-Defense Campus (CYD) Postdoctoral Fellowship, which generously supports my postdoctoral position in the SPRING Lab at EPFL. </li>
   <li> I am a recipient of the USENIX '22 Diversity grant, which generously supported my trip to the conference in Boston. </li>
-  <li> I am a recipient of the <a href="https://www.epfl.ch/education/studies/en/financing-study/grants/excellence-fellowships/">EPFL Excellence Fellowship</a> (awarded to students with outstanding academic records), which generously supported my studies at EPFL.</li>
+  <li> I am a recipient of the <a href="https://www.epfl.ch/education/master/master-excellence-fellowships/">EPFL Excellence Fellowship</a> (awarded to students with outstanding academic records), which generously supported my studies at EPFL.</li>
   <li> My studies in France were supported by a competitive 2-year full scholarship from the <i>Fondation Odon Vallet</i> and by a 2.5-year scholarship from the <i> Fondation de l'Ecole Polytechnique</i>.</li>
   <li> I was born and grew up in Romania. There, I participated in many mathematics contests, including the Romanian National Olympiad, where I won one gold medal, three silver medals, and one bronze medal.</li>
 </ul>
