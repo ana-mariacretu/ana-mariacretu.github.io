@@ -14,6 +14,8 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
+17/07/2024: Our review on [Anonymization: The imperfect science of using data while preserving privacy](https://www.science.org/doi/10.1126/sciadv.adn7053) has been published in Science Advances. Joint work with Andrea Gadotti, Luc Rocher, Florimond Houssiau and Yves-Alexandre de Montjoye.
+
 20/06/2024: Our paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.3653272) received the Best Paper Award at the ACM CODASPY '24 conference! 🏆📜 Miruna Rusu, co-first author on the paper, presented the work in Porto, Portugal. 
 
 08/06/2024: New paper [A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data](https://arxiv.org/abs/2406.18671) accepted in PoPETS 2024! Joint work with Vincent Guan, Florent Guépin and Yves-Alexandre de Montjoye. 
@@ -33,12 +35,16 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
 
+<li>
+   Andrea Gadotti, Luc Rocher, Florimond Houssiau, <b>Crețu A.-M.</b> and de Montjoye Y.-A. Anonymization: The imperfect science of using data while preserving privacy. In <i>Science Advances, 2024</i>. <a href="https://petsymposium.org/popets/2024/popets-2024-0108.php">[Paper]</a>  
+</li>
+
   <li>
-   Guan, V.*, Guépin F.*, <b>Crețu A.-M.</b> and de Montjoye Y.-A. A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data. To appear in <i> Proceedings on Privacy Enhancing Technologies 2024(4) (PoPETS 2024). </i> <a href="https://arxiv.org/abs/2406.18671">[arXiv]</a>
+   Guan, V.*, Guépin F.*, <b>Crețu A.-M.</b> and de Montjoye Y.-A. A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data. In <i> Proceedings on Privacy Enhancing Technologies 2024(4) (PoPETS 2024). </i> <a href="https://arxiv.org/abs/2406.18671">[Paper]</a>
   </li>
 
   <li>
-   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation inference attacks against machine learning models. <i> To appear in Science Advances </i> <a href="https://arxiv.org/abs/2112.08806">[arXiv]</a> <a href="https://github.com/computationalprivacy/ml-correlation-inference">[Code]</a>
+   <b>Crețu A.-M.*</b>, Guépin F.* and de Montjoye Y.-A. Correlation inference attacks against machine learning models. In <i>Science Advances, 2024</i>. <a href="https://www.science.org/doi/10.1126/sciadv.adj9260">[Paper]</a> <a href="https://github.com/computationalprivacy/ml-correlation-inference">[Code]</a>
   </li>
    
    <li>
