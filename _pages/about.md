@@ -36,11 +36,11 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <ol reversed>
 
 <li>
-   Andrea Gadotti, Luc Rocher, Florimond Houssiau, <b>Crețu A.-M.</b> and de Montjoye Y.-A. Anonymization: The imperfect science of using data while preserving privacy. In <i>Science Advances, 2024</i>. <a href="https://petsymposium.org/popets/2024/popets-2024-0108.php">[Paper]</a>  
+   Andrea Gadotti, Luc Rocher, Florimond Houssiau, <b>Crețu A.-M.</b> and de Montjoye Y.-A. Anonymization: The imperfect science of using data while preserving privacy. In <i>Science Advances, 2024</i>. <a href="https://www.science.org/doi/10.1126/sciadv.adn7053">[Paper]</a>
 </li>
 
   <li>
-   Guan, V.*, Guépin F.*, <b>Crețu A.-M.</b> and de Montjoye Y.-A. A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data. In <i> Proceedings on Privacy Enhancing Technologies 2024(4) (PoPETS 2024). </i> <a href="https://arxiv.org/abs/2406.18671">[Paper]</a>
+   Guan, V.*, Guépin F.*, <b>Crețu A.-M.</b> and de Montjoye Y.-A. A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data. In <i> Proceedings on Privacy Enhancing Technologies 2024(4) (PoPETS 2024). </i>  <a href="https://petsymposium.org/popets/2024/popets-2024-0108.php">[Paper]</a>  
   </li>
 
   <li>
