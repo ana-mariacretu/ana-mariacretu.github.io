@@ -14,7 +14,7 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
-17/07/2024: Our review on [Anonymization: The imperfect science of using data while preserving privacy](https://www.science.org/doi/10.1126/sciadv.adn7053) has been published in Science Advances. Joint work with Andrea Gadotti, Luc Rocher, Florimond Houssiau and Yves-Alexandre de Montjoye.
+17/07/2024: Our review paper on [Anonymization: The imperfect science of using data while preserving privacy](https://www.science.org/doi/10.1126/sciadv.adn7053) has been published in Science Advances. Joint work with Andrea Gadotti, Luc Rocher, Florimond Houssiau and Yves-Alexandre de Montjoye.
 
 20/06/2024: Our paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.3653272) received the Best Paper Award at the ACM CODASPY '24 conference! 🏆📜 Miruna Rusu, co-first author on the paper, presented the work in Porto, Portugal. 
 
