@@ -14,6 +14,8 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
+23/08/2024: New paper "QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems" accepted at ACM CCS 2024! Joint work with Bozhidar Stevanoski and Yves-Alexandre de Montjoye. The paper and the source code will be available soon.
+
 17/07/2024: Our review paper on [Anonymization: The imperfect science of using data while preserving privacy](https://www.science.org/doi/10.1126/sciadv.adn7053) has been published in Science Advances. Joint work with Andrea Gadotti, Luc Rocher, Florimond Houssiau and Yves-Alexandre de Montjoye.
 
 20/06/2024: Our paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.3653272) received the Best Paper Award at the ACM CODASPY '24 conference! 🏆📜 Miruna Rusu, co-first author on the paper, presented the work in Porto, Portugal. 
@@ -34,6 +36,10 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 ## Peer-reviewed articles
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
+
+<li>
+   Bozhidar Stevanoski, <b>Crețu A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>.
+</li>
 
 <li>
    Andrea Gadotti, Luc Rocher, Florimond Houssiau, <b>Crețu A.-M.</b> and de Montjoye Y.-A. Anonymization: The imperfect science of using data while preserving privacy. In <i>Science Advances, 2024</i>. <a href="https://www.science.org/doi/10.1126/sciadv.adn7053">[Paper]</a>
