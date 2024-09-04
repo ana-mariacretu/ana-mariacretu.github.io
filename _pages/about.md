@@ -38,7 +38,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <ol reversed>
 
 <li>
-   Bozhidar Stevanoski, <b>Crețu A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a>
+   Bozhidar Stevanoski, <b>Cretu A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a>
    <ul>
      <li> Presented as a poster at the TPDP '24 workshop in Boston, MA, USA.</li>
      </ul>
