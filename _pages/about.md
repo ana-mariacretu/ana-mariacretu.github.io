@@ -69,7 +69,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 </li>
 
 <li>
-     <b>Cretu A.-M.</b> Evaluating privacy and robustness in modern data processing systems. PhD Thesis, Imperial College London (2023). <a href="https://spiral.imperial.ac.uk/handle/10044/1/114942">[Thesis]</a> 
+     <b>Cretu A.-M.</b> Evaluating privacy and robustness in modern data processing systems. <i>PhD Thesis, Imperial College London (2023).</i> <a href="https://spiral.imperial.ac.uk/handle/10044/1/114942">[Thesis]</a> 
 </li>
  
 <li>
