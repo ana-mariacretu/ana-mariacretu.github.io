@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+# 2024
+
+26/02/2024: New paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.365327) accepted at ACM CODASPY '24! Joint work with Miruna Rusu and Yves-Alexandre de Montjoye.
+
+01/02/2024: New paper [Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting](https://arxiv.org/abs/2306.05093) accepted at PoPETS 2024! Joint work with Daniel Jones, Yves-Alexandre de Montjoye, and Shruti Tople.
+
+22/01/2024: I attended the discussion panel of the [Synthetic Data for Biomedical Applications](https://www.datascience.ch/event/synthetic-data-for-biomedical-applications) workshop organised by CHUV and the Swiss Data Science Center.
+
 # 2023
 
 01/11/2023: I started a postdoc at Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland. I am part of the [SPRING Lab](https://spring.epfl.ch/) headed by Prof. Carmela Troncoso. I am generously funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the Swiss Cyberdefense Campus where my main collaborator is Dr. Raphael Meier.
