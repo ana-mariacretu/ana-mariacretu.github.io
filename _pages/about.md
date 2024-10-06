@@ -102,7 +102,7 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 </li>
   
 <li>
-    Jain S.*, <b>Crețu A.-M.*</b> and de Montjoye Y.-A. Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning. <i> 31st USENIX Security Symposium (USENIX Security 22) </i> <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain">[Paper]</a> <a href="https://arxiv.org/abs/2106.09820">[Extended arXiv version]</a>
+    Jain S.*, <b>Crețu A.-M.*</b> and de Montjoye Y.-A. Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning. <i> 31st USENIX Security Symposium (USENIX Security 22) </i> <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/jain">[Paper]</a> <a href="https://arxiv.org/abs/2106.09820">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/adversarial-detection-avoidance-attacks/">[Code]</a>
     <ul>
       <li> Cited by Ofcom (UK's communications regulator) in their <a href="https://www.ofcom.org.uk/research-and-data/online-research/overview-of-perceptual-hashing-technology"> Overview of Perceptual Hashing Technology </a> report.</li>
       <li> Presented at the NeurIPS Privacy and Machine Learning 2021 workshop (<a href="https://nips.cc/Conferences/2021/ScheduleMultitrack?event=21873">PriML 2021</a>).</li>
