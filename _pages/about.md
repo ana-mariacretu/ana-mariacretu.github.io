@@ -130,7 +130,7 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
 # Awards and scholarships {#awards}
 
 <ul>
-  <li> I am a recipient of the Cyber-Defense Campus (CYD) Distinguished Postdoctoral Fellowship, which generously supports my postdoctoral position in the SPRING Lab at EPFL. </li>
+  <li> I am a recipient of the [Cyber-Defense Campus (CYD) Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/), which generously supports my postdoctoral position in the SPRING Lab at EPFL. </li>
   <li> I am a recipient of the USENIX '22 Diversity grant, which generously supported my trip to the conference in Boston. </li>
   <li> I am a recipient of the <a href="https://www.epfl.ch/education/master/master-excellence-fellowships/">EPFL Excellence Fellowship</a> (awarded to students with outstanding academic records), which generously supported my MSc studies at EPFL.</li>
   <li> My studies in France were supported by a competitive 2-year full scholarship from the <i>Fondation Odon Vallet</i> and by a 2.5-year scholarship from the <i> Fondation de l'Ecole Polytechnique</i>.</li>
