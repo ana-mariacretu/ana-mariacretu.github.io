@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Invited lecturer
+# Invited Lecturer
 
 <ul>
   <li>05/2024: I taught a 3-hour class titled "Machine learning and privacy" as part of the master-level COM-523 "Advanced topics on privacy enhancing technologies" course at EFPL, Switzerland.</li>
