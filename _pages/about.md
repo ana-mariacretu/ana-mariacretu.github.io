@@ -14,13 +14,13 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
-16/10/2024: Our paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) has received a Distinguished Paper Award at ACM CCS 2024! 🏆 Very glad to see this line of work, started with [QuerySnout](https://dl.acm.org/doi/10.1145/3548606.3560581), recognized by the community.
+16/10/2024: 🏆 Distinguished paper award for our paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) at ACM CCS 2024! Very glad to see this line of work, started with [QuerySnout](https://dl.acm.org/doi/10.1145/3548606.3560581), recognized by the community.
 
 23/08/2024: New paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) accepted at ACM CCS 2024! Joint work with Bozhidar Stevanoski and Yves-Alexandre de Montjoye.
 
 17/07/2024: Our review paper on [Anonymization: The imperfect science of using data while preserving privacy](https://www.science.org/doi/10.1126/sciadv.adn7053) has been published in Science Advances. Joint work with Andrea Gadotti, Luc Rocher, Florimond Houssiau and Yves-Alexandre de Montjoye.
 
-20/06/2024: Our paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.3653272) received the Best Paper Award at the ACM CODASPY '24 conference! 🏆 Miruna Rusu, co-first author on the paper, presented the work in Porto, Portugal. 
+20/06/2024: 🏆 Best paper award for our paper [Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks](https://dl.acm.org/doi/10.1145/3626232.3653272) at the ACM CODASPY '24 conference! Miruna Rusu, co-first author on the paper, presented the work in Porto, Portugal. 
 
 08/06/2024: New paper [A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data](https://arxiv.org/abs/2406.18671) accepted in PoPETS 2024! Joint work with Vincent Guan, Florent Guépin and Yves-Alexandre de Montjoye. 
 
