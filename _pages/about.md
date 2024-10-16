@@ -14,7 +14,7 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
-16/10/2024: Our paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) has received a Distinguished Paper Award at ACM CCS 2024! 🏆 
+16/10/2024: Our paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) has received a Distinguished Paper Award at ACM CCS 2024! 🏆 Very glad to see this line of work, started with [QuerySnout](https://dl.acm.org/doi/10.1145/3548606.3560581), recognized by the community.
 
 23/08/2024: New paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) accepted at ACM CCS 2024! Joint work with Bozhidar Stevanoski and Yves-Alexandre de Montjoye.
 
