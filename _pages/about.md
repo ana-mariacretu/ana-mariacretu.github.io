@@ -12,7 +12,7 @@ I am a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL, headed by P
 
 I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by [Dr. Yves-Alexandre de Montjoye](http://www.demontjoye.com/index.html). 
 
-My research sits broadly at the intersection between machine learning, privacy, and security. I develop methods to evaluate the privacy of anonymization techniques (re-pseudonymization, aggregation incl. query-based systems and synthetic data). My focus has been on automation, scalability and practical relevance of threat models to make privacy evaluations more accessible to practitioners. I also study privacy and security vulnerabilities in systems having the potential to cause harm: machine learning models and perceptual hashing-based client-side scanning. 
+My research sits broadly at the intersection between machine learning, privacy, and security. I develop methods to evaluate the privacy of anonymization techniques (re-pseudonymization, aggregation incl. query-based systems and synthetic data). I focus on automation, scalability, tightness of evaluation, and practical relevance of threat models, with the goal of making privacy evaluations more accessible to practitioners. I also study privacy and security vulnerabilities in systems having the potential to cause harm: machine learning models and perceptual hashing-based client-side scanning. 
 
 # News {#news}
 
