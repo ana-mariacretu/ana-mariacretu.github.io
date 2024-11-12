@@ -37,10 +37,9 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <ol reversed>
 
 <li>
-   Bozhidar Stevanoski, <b>Cretu A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a>
+   Bozhidar Stevanoski, <b>Cretu A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a> <b><font color="red">🏆 Distinguished paper award</font></b>
    <ul>
      <li> Presented as a poster at the TPDP '24 workshop in Boston, MA, USA.</li>
-     <li> Recipient of a <b><font color="red">Distinguished paper award</font></b> at the ACM CCS '24 conference in Salt Lake City, Utah, USA.</li>
      </ul>
 </li>
 
@@ -61,11 +60,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 </li>
    
 <li>
-   <b>Cretu A.-M.*</b>, Rusu, M.*, and de Montjoye Y.-A. Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks. In <i>Proceedings of the Fourteenth ACM Conference on Data and Application Security and Privacy (CODASPY '24).</i> <a href="https://dl.acm.org/doi/10.1145/3626232.3653272">[Paper]</a> <a href="https://arxiv.org/abs/2404.03948">[Extended arXiv version]</a> 
-     <ul>
-     <li> Recipient of a <b><font color="red">Best paper award</font></b> at the ACM CODASPY '24 conference in Porto, Portugal.</li>
-     </ul>
-</li>
+   <b>Cretu A.-M.*</b>, Rusu, M.*, and de Montjoye Y.-A. Re-pseudonymization Strategies for Smart Meter Data Are Not Robust to Deep Learning Profiling Attacks. In <i>Proceedings of the Fourteenth ACM Conference on Data and Application Security and Privacy (CODASPY '24).</i> <a href="https://dl.acm.org/doi/10.1145/3626232.3653272">[Paper]</a> <a href="https://arxiv.org/abs/2404.03948">[Extended arXiv version]</a> <b><font color="red">🏆 Best paper award</font></b> 
 
 <li>
      <b>Cretu A.-M.</b> Evaluating privacy and robustness in modern data processing systems. <i>PhD Thesis, Imperial College London (2023).</i> <a href="https://spiral.imperial.ac.uk/handle/10044/1/114942">[Thesis]</a> 
