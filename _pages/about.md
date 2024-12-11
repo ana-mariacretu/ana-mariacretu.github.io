@@ -8,11 +8,9 @@ redirect_from:
 - /about.html
 ---
 
-I am a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL, headed by Prof. Carmela Troncoso. My position is funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the Cyber-Defense Campus, where my main collaborator is Dr. Raphael Meier.
+I am a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL, headed by Prof. Carmela Troncoso. My position is funded by the [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) of the Cyber-Defense Campus, where my main collaborator is Dr. Raphael Meier. I am working on the safety of AI systems having the potential to cause harm, focusing on image generative AI, synthetic data, and client-side scanning systems.
 
-I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by Dr. Yves-Alexandre de Montjoye. 
-
-My research sits broadly at the intersection between machine learning, privacy, and security. I develop methods to evaluate the privacy of anonymization techniques (re-pseudonymization, aggregation incl. query-based systems and synthetic data). I focus on automation, scalability, tightness of evaluation, and practical relevance of threat models, with the goal of making privacy evaluations more accessible to practitioners. I also study privacy and security vulnerabilities in systems having the potential to cause harm: machine learning models and perceptual hashing-based client-side scanning. 
+I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at [Imperial College London](https://www.imperial.ac.uk/), advised by Dr. Yves-Alexandre de Montjoye. During my thesis, I developed methods to evaluate the privacy of a broad range of anonymization techniques (including re-pseudonymization, query-based systems, and synthetic data). I have focused on automation, scalability, tightness of evaluation, and practical relevance of threat models, with the goal of making privacy evaluations more accessible to practitioners. I also developed new privacy attacks against machine learning models and studied the adversarial robustness of client-side scanning.
 
 # News {#news}
 
