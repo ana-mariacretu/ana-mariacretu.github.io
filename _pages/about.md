@@ -35,14 +35,14 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <ol reversed>
 
 <li>
-   Bozhidar Stevanoski, <b>Cretu A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a> <b><font color="red">🏆 Distinguished paper award</font></b>
+   Stevanoski, B., <b>Cretu, A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a> <b><font color="red">🏆 Distinguished paper award</font></b>
    <ul>
      <li> Presented as a poster at the TPDP '24 workshop in Boston, MA, USA.</li>
      </ul>
 </li>
 
 <li>
-   Andrea Gadotti, Luc Rocher, Florimond Houssiau, <b>Crețu A.-M.</b> and de Montjoye Y.-A. Anonymization: The imperfect science of using data while preserving privacy. In <i>Science Advances, 2024</i>. <a href="https://www.science.org/doi/10.1126/sciadv.adn7053">[Paper]</a>
+   Gadotti, A., Rocher, L., Houssiau, F., <b>Crețu, A.-M.</b> and de Montjoye Y.-A. Anonymization: The imperfect science of using data while preserving privacy. In <i>Science Advances, 2024</i>. <a href="https://www.science.org/doi/10.1126/sciadv.adn7053">[Paper]</a>
 </li>
 
 <li>
@@ -50,7 +50,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 </li>
 
 <li>
-   Guan, V.*, Guépin F.*, <b>Crețu A.-M.</b> and de Montjoye Y.-A. A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data. In <i> Proceedings on Privacy Enhancing Technologies 2024(4) (PoPETS 2024). </i>  <a href="https://petsymposium.org/popets/2024/popets-2024-0108.php">[Paper]</a>  
+   Guan, V.*, Guépin, F.*, <b>Crețu A.-M.</b> and de Montjoye Y.-A. A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data. In <i> Proceedings on Privacy Enhancing Technologies 2024(4) (PoPETS 2024). </i>  <a href="https://petsymposium.org/popets/2024/popets-2024-0108.php">[Paper]</a>  
 </li>
    
 <li>
