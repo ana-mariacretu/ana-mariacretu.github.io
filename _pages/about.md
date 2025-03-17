@@ -14,9 +14,9 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
-14/03/2024: Super excited to have attended a Dagstuhl seminar on [PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25112)!
+14/03/2025: Super excited to have attended a Dagstuhl seminar on [PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25112)!
 
-13/02/2024: Gave two invited talks about my work at the Applied Machine Learning Days event in Lausanne.
+13/02/2025: Gave two invited talks about my work at the Applied Machine Learning Days event in Lausanne.
 
 16/10/2024: 🏆 Distinguished paper award for our paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) at ACM CCS 2024! Very glad to see this line of work, started with [QuerySnout](https://dl.acm.org/doi/10.1145/3548606.3560581), recognized by the community.
 
