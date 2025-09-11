@@ -14,11 +14,13 @@ I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk
 
 # News {#news}
 
+12/09/2025: Attending the [Summer School on Security and Privacy in the age of AI](https://cybersecurity-research.be/summer-school-on-security-privacy-in-the-age-of-ai-2025/) in Leuven, Belgium. I also gave a talk at KULeuven's COSIC group.
+
+30/08/2025: I gave an invited lecture for the Privacy Enhancing Technologies course at KIT in Karlsruhe, Germany.
+
 14/03/2025: Super excited to have attended a Dagstuhl seminar on [PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25112)!
 
 13/02/2025: Gave two invited talks about my work at the Applied Machine Learning Days event in Lausanne.
-
-16/10/2024: 🏆 Distinguished paper award for our paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) at ACM CCS 2024! Very glad to see this line of work, started with [QuerySnout](https://dl.acm.org/doi/10.1145/3548606.3560581), recognized by the community.
 
 More news [here](https://ana-mariacretu.github.io/news-archive/).
 
