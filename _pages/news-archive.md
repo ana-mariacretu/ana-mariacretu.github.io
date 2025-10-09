@@ -11,6 +11,8 @@ author_profile: true
 
 16/10/2024: 🏆 Distinguished paper award for our paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) at ACM CCS 2024! Very glad to see this line of work, started with [QuerySnout](https://dl.acm.org/doi/10.1145/3548606.3560581), recognized by the community.
 
+10/10/2024: I gave an interview for EPFL Center for Digital Trust on the pitfalls of current proposals to use client-side scanning to detect illegal content in end-to-end-encrypted communications: [The Encryption Dilemma Protecting  privacy amid  rising security concerns](https://drive.switch.ch/index.php/s/EF2jZcfcOQWmHgY).
+
 23/08/2024: New paper [QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems](https://arxiv.org/abs/2409.01992) accepted at ACM CCS 2024! Joint work with Bozhidar Stevanoski and Yves-Alexandre de Montjoye.
 
 17/07/2024: Our review paper on [Anonymization: The imperfect science of using data while preserving privacy](https://www.science.org/doi/10.1126/sciadv.adn7053) has been published in Science Advances. Joint work with Andrea Gadotti, Luc Rocher, Florimond Houssiau and Yves-Alexandre de Montjoye.
