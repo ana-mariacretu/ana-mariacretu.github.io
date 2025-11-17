@@ -26,6 +26,16 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 
 # Publications {#publications}
 
+## Preprints
+
+<ol reversed>
+
+<li> 
+    Kireev, K.*, <b>Creţu, A. M.*</b>, Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. A Manually Annotated Image-Caption Dataset for Detecting Children in the Wild. <a href="https://arxiv.org/pdf/2506.10117">[arXiv]</a> <a href="https://huggingface.co/datasets/amcretu/iccwd">[Dataset]</a>
+</li>
+  
+ </ol>
+
 ## Peer-reviewed articles
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
@@ -115,12 +125,6 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
     Kocijan V., <b>Crețu A.-M.</b>, Camburu O.-M., Yordanov Y. and Lukasiewicz T. A Surprisingly Robust Trick for the Winograd Schema Challenge. <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)</i> <a href="https://aclanthology.org/P19-1478/">[Paper]</a>
 </li>
 </ol>
-
-## Preprints
-
-<ol reversed>
-  
- </ol>
 
 # Awards and scholarships {#awards}
 
