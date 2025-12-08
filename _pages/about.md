@@ -8,7 +8,13 @@ redirect_from:
 - /about.html
 ---
 
-Hello! 👋 I'm an incoming tenure-track faculty at <a href="https://cispa.de/en">CISPA</a> starting in January 2026.  <b> If you're interested in working in my lab as a PhD student, PostDoc, or research intern (including master thesis), fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScHGKsTxNpZJBrSQzShGe17_8ONwW9eHq5wJkaxUQeECnGg8A/viewform?usp=dialog">this form</a>. </b>
+Hello! 👋 I'm an incoming tenure-track faculty at <a href="https://cispa.de/en">CISPA</a> starting in January 2026. 
+
+I study privacy and security in data-driven systems. I build tools to systematically reason about the trade-offs between general-purpose capabilities in these systems and their privacy and security requirements. I’m interested in the following topics:
+- Evaluating capabilities of AI systems, e.g., image generative AI [[1]](https://www.arxiv.org/abs/2512.05707) and client-side scanning systems [[3](https://www.usenix.org/conference/usenixsecurity22/presentation/jain), [6](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a234/1NrbXDL6b2U)].
+- Designing tools to measure and enhance the privacy and utility of privacy-enhancing technologies like synthetic data [[7](https://link.springer.com/chapter/10.1007/978-3-031-54204-6_10)], query-based systems [[5](https://link.springer.com/chapter/10.1007/978-3-031-51476-0_19), [15](https://arxiv.org/abs/2409.01992)], and anonymization [[4](https://doi.org/10.1038/s41467-021-27714-6)].
+
+<b> I'm looking for motivated students with a strong background in computer science, applied mathematics or statistics. If you're interested in working in my lab as a PhD student, PostDoc, or research intern (including master thesis), fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScHGKsTxNpZJBrSQzShGe17_8ONwW9eHq5wJkaxUQeECnGg8A/viewform?usp=dialog">this form</a>. </b>
 
 Previously, I was a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL, headed by Prof. Carmela Troncoso, where I was awarded a [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) by the Cyber-Defense Campus. I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at Imperial College London, advised by Dr. Yves-Alexandre de Montjoye. During my PhD, I developed methods to evaluate the privacy of a broad range of privacy mechanisms such as anonymization, query-based systems, and synthetic data. I have focused on automation, scalability, tightness of evaluation, and practical relevance of threat models, with the goal of making privacy evaluations more accessible to practitioners. I also developed new privacy attacks against machine learning models and studied the adversarial robustness of client-side scanning.
 
@@ -45,7 +51,7 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <ol reversed>
 
 <li>
-   Stevanoski, B., <b>Cretu, A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Extended arXiv version]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a> <b><font color="red">🏆 Distinguished paper award</font></b>
+   Stevanoski, B., <b>Cretu, A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Paper]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a> <b><font color="red">🏆 Distinguished paper award</font></b>
    <ul>
      <li> Presented as a poster at the TPDP '24 workshop in Boston, MA, USA.</li>
      </ul>
