@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-Hello! 👋 I'm an incoming tenure-track faculty at CISPA starting in January 2026. I study privacy and safety in data-driven systems having a potential to cause harm. My current focus is on image generative AI, synthetic data, and client-side scanning. <b> If you're interested in working in my lab as a PhD student, PostDoc, or research intern (including master thesis), fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScHGKsTxNpZJBrSQzShGe17_8ONwW9eHq5wJkaxUQeECnGg8A/viewform?usp=dialog">this form</a>. </b>
+Hello! 👋 I'm an incoming tenure-track faculty at <a href="https://cispa.de/en">CISPA</a> starting in January 2026.  <b> If you're interested in working in my lab as a PhD student, PostDoc, or research intern (including master thesis), fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScHGKsTxNpZJBrSQzShGe17_8ONwW9eHq5wJkaxUQeECnGg8A/viewform?usp=dialog">this form</a>. </b>
 
 Previously, I was a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL, headed by Prof. Carmela Troncoso, where I was awarded a [CYD Distinguished Postdoctoral Fellowship](https://www.epfl.ch/research/funding/epfl-programmes/cyd/cyd-postdoc/) by the Cyber-Defense Campus. I completed my PhD in the [Computational Privacy Group](https://cpg.doc.ic.ac.uk/index.html) at Imperial College London, advised by Dr. Yves-Alexandre de Montjoye. During my PhD, I developed methods to evaluate the privacy of a broad range of privacy mechanisms such as anonymization, query-based systems, and synthetic data. I have focused on automation, scalability, tightness of evaluation, and practical relevance of threat models, with the goal of making privacy evaluations more accessible to practitioners. I also developed new privacy attacks against machine learning models and studied the adversarial robustness of client-side scanning.
 
@@ -29,6 +29,10 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 ## Preprints
 
 <ol reversed>
+
+<li> 
+    <b>Creţu, A. M.</b>, Kireev, K., Abdalla, A.., Obinna, W., Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models. <a href="https://www.arxiv.org/abs/2512.05707">[arXiv]</a>
+</li>
 
 <li> 
     Kireev, K.*, <b>Creţu, A. M.*</b>, Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. A Manually Annotated Image-Caption Dataset for Detecting Children in the Wild. <a href="https://arxiv.org/pdf/2506.10117">[arXiv]</a> <a href="https://huggingface.co/datasets/amcretu/iccwd">[Dataset]</a>
