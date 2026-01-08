@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-Hello! 👋 I'm a tenure-track faculty at <a href="https://cispa.de/en">CISPA</a> starting in January 2026. 
+Hello! 👋 I'm a tenure-track faculty at <a href="https://cispa.de/en">CISPA</a>. 
 
 I study privacy and security in data-driven systems. I build tools to systematically reason about the trade-offs between general-purpose capabilities in these systems and their privacy and security requirements. I’m interested in the following topics:
 - Evaluating capabilities of AI systems, e.g., image generative AI [[1]](https://www.arxiv.org/abs/2512.05707) and client-side scanning systems [[3](https://www.usenix.org/conference/usenixsecurity22/presentation/jain), [6](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a234/1NrbXDL6b2U)].
