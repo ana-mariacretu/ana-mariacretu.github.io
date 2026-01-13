@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ana-Maria Cretu"
   avatar           : "20231101_135649_resized_website.jpg"
-  bio              : "Postdoctoral researcher, EPFL"
-  location         : 
-  employer         :
+  bio              : "Tenure-track faculty, CISPA"
+  location         : Saarbrücken, Germany
+  employer         : CISPA
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1iDGOKUAAAAJ"
-  email            : "ana-maria.cretu@epfl.ch"
+  email            : "cretu@cispa.de"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -103,6 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "ana-maria-cretu-9b7421100"
+  bluseky          : "ana-mariacretu.bsky.social"
   orcid            : 
   pinterest        :
   soundcloud       :
