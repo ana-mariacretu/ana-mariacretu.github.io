@@ -12,5 +12,3 @@ Prior to starting my PhD, I obtained an MSc in Computer Science from [EPFL, Swit
 In 2022, I was a research intern in the Microsoft Research Confidential Computing team (Cambridge, UK), working on the privacy of machine learning models with Shruti Tople and Daniel Jones. In 2020, I was a research intern at Twitter (London, UK) in the graph learning team, working with Dr. Davide Eynard on the privacy of Twitter graph data. In 2017, I was a summer intern at Google (Boulder, Colorado, USA), in the Payments Compliance Engineering Team, where I was supervised by Craig Wright. In 2016, I was an intern for 5 months at Google (Paris, France), where I was supervised by Dr. Sertan Girgin.
 
 I was born and grew up in Buzău, Romania. There, I participated in many mathematics contests, including the Romanian National Olympiad, where I won one gold medal, three silver medals, and one bronze medal.
-
- <iframe width="100%" height="800" src="https://github.com/ana-mariacretu/ana-mariacretu.github.io/blob/master/Openings.pdf">
