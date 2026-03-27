@@ -34,6 +34,7 @@ In the past, I have supervised the following academic projects:
 <li>2020, Guilherme Freire, Master thesis, Imperial College London</li>
 <li>2018, Yordan Yordanov, Undergraduate summer project, University of Oxford</li>
 
+<br>
 
 # Mentoring
 
