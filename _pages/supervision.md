@@ -9,13 +9,15 @@ author_profile: true
 {% include base_path %}
 
 I have the pleasure to supervise the following academic projects:
+
 <li>2026, Wasif Khizar, Master thesis, University of Saarland</li>
 <li>2026 (upcoming), Eshaan Tanwar, </li>
 <li>2026 (upcoming), Li Sheng, </li>
 <li>2026 (upcoming), Ali Shahzaib, LUMS</li>
 <li>2026 (upcoming), Syeda Zahra Ali Tirmizey, LUMS </li>
 
-I had the pleasure to supervise the following academic projects:
+
+In the past, I have supervised the following academic projects:
 
 <li>2025, Mathis Ayma, Master semester project, EPFL</li>
 <li>2025, Ahyoung Seo, Master semester project, EPFL</li>
@@ -29,8 +31,8 @@ I had the pleasure to supervise the following academic projects:
 <li>2022, Hongji Wu, Master thesis, Imperial College London</li>
 <li>2021, Cyril Miras, Master thesis, Ecole Polytechnique</li>
 <li>2021, Miruna Rusu, Master thesis, Imperial College London 
- <ul><b><font color="blue">Winner of the Corporate Partnership Programme Award</font></ul>
- <ul><font color="red">Best paper award at ACM CODASPY’ 24</font></b></ul>
+ <ul><b><font color="blue">Winner of the Corporate Partnership Programme Award</font></b></ul>
+ <ul><b><font color="red">Best paper award at ACM CODASPY’ 24</font></b></ul>
  </li>
 <li>2021, Manuel Faysse, Master thesis, EPFL</li>
 <li>2020, Florent Guépin, Master thesis, Ecole Centrale Lyon and ENS Lyon</li>
