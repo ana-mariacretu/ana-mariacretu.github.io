@@ -36,11 +36,12 @@ I had the pleasure to supervise the following academic projects:
 
 I also had the pleasure to mentor the following PhD students:
 
+<li>Klim Kireev, EPFL</li>
+<li>Matthieu Meeus, Imperial College London</li>
+<li>Vincent Guan, Imperial College London</li>
+<li>Bozhidar Stevanoski, Imperial College London</li>
 <li>Florent Guepin, Imperial College London</li>
 <li>Shubham Jain, Imperial College London</li>
-<li>Bozhidar Stevanoski, Imperial College London</li>
-<li>Vincent Guan, Imperial College London</li>
-<li>Matthieu Meeus, Imperial College London</li>
 
 {% include base_path %}
 
