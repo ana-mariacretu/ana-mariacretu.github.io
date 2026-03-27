@@ -17,10 +17,10 @@ author_profile: true
 
 I had the pleasure to supervise the following academic projects:
 
-<li> 2024, Eric Saikali, Master semester project, EPFL</li>
-
+<li>2025, Mathis Ayma, Master semester project, EPFL</li>
+<li>2025, Ahyoung Seo, Master semester project, EPFL</li>
+<li>2024, Eric Saikali, Master semester project, EPFL</li>
 <li>2024, Keisuke Ueda, Master semester project, EPFL</li>
-
 <li>2024, Alexandre Santangelo, Master semester project, EPFL</li>
 <li>2024, Cristian-Alexandru Botocan, Master semester project, EPFL</li>
 <li>2023, Yolanda Yang, Master thesis, Imperial College London (<b><text color="blue">Winner of the Corporate Partnership Programme Award</text></b></li>
@@ -30,7 +30,7 @@ I had the pleasure to supervise the following academic projects:
 <li>2021, Manuel Faysse, Master thesis, EPFL</li>
 <li>2020, Florent Guépin, Master thesis, Ecole Centrale Lyon and ENS Lyon</li>
 <li>2020, Guilherme Freire, Master thesis, Imperial College London</li>
-<li><2018, Yordan Yordanov, Undergraduate summer project, University of Oxford/li>
+<li>2018, Yordan Yordanov, Undergraduate summer project, University of Oxford</li>
 
 # Mentoring
 
