@@ -20,25 +20,15 @@ Previously, I was a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL
 
 # News {#news}
 
-25/03/2026: Attending the SatML 2026 conference in Munich, Germany. I am delighted to have chaired the differential privacy session.
+25/03/2026: Attending the SatML 2026 conference in Munich, Germany, where I have chaired the differential privacy session.
 
-09/03/2026: Our paper [Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models](https://www.arxiv.org/abs/2512.05707) has been accepted for publication at IEEE SP 2026! Stay tuned for the updated version and the code.
+09/03/2026: Our [paper](https://www.arxiv.org/abs/2512.05707) evaluating training data filtering defenses for preventing child sexual abuse material generation by text-to-image models has been accepted for publication at IEEE SP 2026. Stay tuned for the updated version and the code.
 
-01/01/2026: I have started a new position as a tenure-track faculty at CISPA in Saarbrucken, Germany. I am delighted to join such a stellar team of researchers!
+01/01/2026: I have started a new position as a tenure-track faculty at [CISPA](https://cispa.de/en) in Saarbrucken, Germany. I am delighted to join such a stellar team of researchers!
 
 More news [here](https://ana-mariacretu.github.io/news-archive/).
 
 # Publications {#publications}
-
-## Preprints
-
-<ol reversed>
-
-<li> 
-    Kireev, K.*, <b>Creţu, A. M.*</b>, Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. A Manually Annotated Image-Caption Dataset for Detecting Children in the Wild. <a href="https://arxiv.org/pdf/2506.10117">[arXiv]</a> <a href="https://huggingface.co/datasets/amcretu/iccwd">[Dataset]</a>
-</li>
-  
- </ol>
 
 ## Peer-reviewed articles
 <small>\* denotes joint first authorship.</small>
@@ -133,6 +123,16 @@ attacks against query-based systems. <i>In Proceedings of the 2022 ACM SIGSAC Co
     Kocijan V., <b>Crețu A.-M.</b>, Camburu O.-M., Yordanov Y. and Lukasiewicz T. A Surprisingly Robust Trick for the Winograd Schema Challenge. <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)</i> <a href="https://aclanthology.org/P19-1478/">[Paper]</a>
 </li>
 </ol>
+
+## Preprints
+
+<ol reversed>
+
+<li> 
+    Kireev, K.*, <b>Creţu, A. M.*</b>, Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. A Manually Annotated Image-Caption Dataset for Detecting Children in the Wild. <a href="https://arxiv.org/pdf/2506.10117">[arXiv]</a> <a href="https://huggingface.co/datasets/amcretu/iccwd">[Dataset]</a>
+</li>
+  
+ </ol>
 
 # Awards and scholarships {#awards}
 
