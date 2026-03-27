@@ -30,7 +30,7 @@ In the past, I have supervised the following academic projects:
 <li>2021, Cyril Miras, Master thesis, Ecole Polytechnique</li>
 <li>2021, Miruna Rusu, Master thesis, Imperial College London (<b><font color="blue">Winner of the Corporate Partnership Programme Award</font></b> & <b><font color="red">Best paper award at ACM CODASPY' 24</font></b>)</li>
 <li>2021, Manuel Faysse, Master thesis (co-supervised with Luc Rocher)</li>
-<li>2020, Florent Guépin, Master thesis, Ecole Centrale Lyon and ENS Lyon</li>
+<li>2020, Florent Guépin, Master thesis, Ecole Centrale Lyon and ENS Lyon (co-supervised with Andrea Gadotti)</li>
 <li>2020, Guilherme Freire, Master thesis, Imperial College London</li>
 <li>2018, Yordan Yordanov, Undergraduate summer project, University of Oxford</li>
 <br>
