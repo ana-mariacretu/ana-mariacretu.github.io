@@ -25,11 +25,10 @@ In the past, I have supervised the following academic projects:
 <li>2024, Keisuke Ueda, Master semester project, EPFL</li>
 <li>2024, Alexandre Santangelo, Master semester project, EPFL</li>
 <li>2024, Cristian-Alexandru Botocan, Master semester project, EPFL</li>
-<li>2023, Yolanda Yang, Master thesis, Imperial College London (<b><font color="blue">Winner of the Corporate Partnership Programme Award</font></b>)
-</li>
+<li>2023, Yolanda Yang, Master thesis, Imperial College London (<b><font color="blue">Winner of the Corporate Partnership Programme Award</font></b>)</li>
 <li>2022, Hongji Wu, Master thesis, Imperial College London</li>
 <li>2021, Cyril Miras, Master thesis, Ecole Polytechnique</li>
-<li>2021, Miruna Rusu, Master thesis, Imperial College London (<b><font color="blue">Winner of the Corporate Partnership Programme Award</font></b> & <b><font color="red">Best paper award at ACM CODASPY' 24</font></b></li>)
+<li>2021, Miruna Rusu, Master thesis, Imperial College London (<b><font color="blue">Winner of the Corporate Partnership Programme Award</font></b> & <b><font color="red">Best paper award at ACM CODASPY' 24</font></b>)</li>
 <li>2021, Manuel Faysse, Master thesis, EPFL</li>
 <li>2020, Florent Guépin, Master thesis, Ecole Centrale Lyon and ENS Lyon</li>
 <li>2020, Guilherme Freire, Master thesis, Imperial College London</li>
