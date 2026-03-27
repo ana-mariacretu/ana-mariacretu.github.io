@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /#publications
+   
+  - title: "Supervision"
+    url: /supervision/
 
   - title: "Teaching"
     url: /teaching/   
@@ -9,23 +12,8 @@ main:
   - title: "Awards"
     url: /#awards
   
-#  - title: "Talks"
-#    url: /talks/    
-
   - title: "Bio"
     url: /bio/
 
   - title: "News archive"
     url: /news-archive/
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
