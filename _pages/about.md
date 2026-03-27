@@ -20,13 +20,11 @@ Previously, I was a postdoc in the [SPRING Lab](https://spring.epfl.ch/) at EPFL
 
 # News {#news}
 
-12/09/2025: Attending the [Summer School on Security and Privacy in the age of AI](https://cybersecurity-research.be/summer-school-on-security-privacy-in-the-age-of-ai-2025/) in Leuven, Belgium. I also gave a talk at KULeuven's COSIC group.
+25/03/2026: Attending the SatML 2026 conference in Munich, Germany. I am delighted to have chaired the differential privacy session.
 
-30/08/2025: I gave an invited lecture for the Privacy Enhancing Technologies course at KIT in Karlsruhe, Germany.
+09/03/2026: Our paper [Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models](https://www.arxiv.org/abs/2512.05707) has been accepted for publication at IEEE SP 2026! Stay tuned for the updated version and the code.
 
-14/03/2025: Super excited to have attended a Dagstuhl seminar on [PETs and AI: Privacy Washing and the Need for a PETs Evaluation Framework](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25112)!
-
-13/02/2025: Gave two invited talks about my work at the Applied Machine Learning Days event in Lausanne.
+01/01/2026: I have started a new position as a tenure-track faculty at CISPA in Saarbrucken, Germany. I am delighted to join such a stellar team of researchers!
 
 More news [here](https://ana-mariacretu.github.io/news-archive/).
 
@@ -35,10 +33,6 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 ## Preprints
 
 <ol reversed>
-
-<li> 
-    <b>Creţu, A. M.</b>, Kireev, K., Abdalla, A.., Obinna, W., Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models. <a href="https://www.arxiv.org/abs/2512.05707">[arXiv]</a>
-</li>
 
 <li> 
     Kireev, K.*, <b>Creţu, A. M.*</b>, Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. A Manually Annotated Image-Caption Dataset for Detecting Children in the Wild. <a href="https://arxiv.org/pdf/2506.10117">[arXiv]</a> <a href="https://huggingface.co/datasets/amcretu/iccwd">[Dataset]</a>
@@ -50,8 +44,12 @@ More news [here](https://ana-mariacretu.github.io/news-archive/).
 <small>\* denotes joint first authorship.</small>
 <ol reversed>
 
+<li> 
+    <b>Creţu, A. M.</b>, Kireev, K., Abdalla, A.., Obinna, W., Meier, R., Bargal, S. A., Redmiles, E., & Troncoso, C. Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models. To appear in <i>IEEE SP, 2026 </i>. <a href="https://www.arxiv.org/abs/2512.05707">[arXiv]</a>
+</li>
+
 <li>
-   Stevanoski, B., <b>Cretu, A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. To appear in <i>ACM CCS 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Paper]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a> <b><font color="red">🏆 Distinguished paper award</font></b>
+   Stevanoski, B., <b>Cretu, A.-M.</b> and de Montjoye Y.-A. QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems. <i>ACM CCS, 2024</i>. <a href="https://arxiv.org/abs/2409.01992">[Paper]</a> <a href="https://github.com/computationalprivacy/querycheetah">[Code]</a> <b><font color="red">🏆 Distinguished paper award</font></b>
    <ul>
      <li> Presented as a poster at the TPDP '24 workshop in Boston, MA, USA.</li>
      </ul>
