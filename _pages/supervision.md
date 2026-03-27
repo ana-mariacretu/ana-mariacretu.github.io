@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have the pleasure to supervise the following academic projects:
+Currently, I have the pleasure to supervise the following academic projects:
 
 <li>2026, Wasif Khizar, Master thesis, University of Saarland (co-supervised with Klim Kireev)</li>
 <li>2026 (upcoming), Eshaan Tanwar, University of Copenhagen </li>
@@ -33,7 +33,6 @@ In the past, I have supervised the following academic projects:
 <li>2020, Florent Guépin, Master thesis, Ecole Centrale Lyon and ENS Lyon (co-supervised with Andrea Gadotti)</li>
 <li>2020, Guilherme Freire, Master thesis, Imperial College London</li>
 <li>2018, Yordan Yordanov, Undergraduate summer project, University of Oxford</li>
-<br>
 
 # Mentoring
 
