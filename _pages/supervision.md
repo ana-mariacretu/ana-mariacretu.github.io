@@ -11,10 +11,10 @@ author_profile: true
 Currently, I have the pleasure to supervise the following academic projects:
 
 <li>2026, Wasif Khizar, Master thesis, University of Saarland (co-supervised with Klim Kireev)</li>
-<li>2026 (upcoming), Eshaan Tanwar, University of Copenhagen </li>
-<li>2026 (upcoming), Li Sheng, University of Eastern Finland </li>
-<li>2026 (upcoming), Ali Shahzaib, LUMS</li>
-<li>2026 (upcoming), Syeda Zahra Ali Tirmizey, LUMS </li>
+<li>2026 (upcoming), Eshaan Tanwar, Intern, University of Copenhagen </li>
+<li>2026 (upcoming), Li Sheng, Intern, University of Eastern Finland </li>
+<li>2026 (upcoming), Ali Shahzaib, Intern, LUMS</li>
+<li>2026 (upcoming), Syeda Zahra Ali Tirmizey, Intern, LUMS </li>
 
 
 In the past, I have supervised the following academic projects:
