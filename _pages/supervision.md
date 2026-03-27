@@ -1,15 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Supervision"
+permalink: /supervision/
 author_profile: true
 ---
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
+
 
 {% include base_path %}
 
