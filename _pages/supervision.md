@@ -15,6 +15,7 @@ Currently, I have the pleasure to supervise the following academic projects:
 <li>2026-now, Rithvika Pervala, Research assistant, University of Saarland </li>
 <li>2026, Wasif Khizar, Master thesis, University of Saarland</li>
 
+<br>
 
 In the past, I have supervised the following students or academic projects:
 
