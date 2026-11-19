@@ -10,15 +10,17 @@ author_profile: true
 
 Currently, I have the pleasure to supervise the following academic projects:
 
-<li>2026, Wasif Khizar, Master thesis, University of Saarland (co-supervised with Klim Kireev)</li>
-<li>2026 (upcoming), Eshaan Tanwar, Intern, University of Copenhagen </li>
-<li>2026 (upcoming), Li Sheng, Intern, University of Eastern Finland </li>
-<li>2026 (upcoming), Ali Shahzaib, Intern, LUMS</li>
-<li>2026 (upcoming), Syeda Zahra Ali Tirmizey, Intern, LUMS </li>
+<li>2026-now, Iyadh Ben Cheikh Larbi, PhD thesis, University of Saarland </li>
+<li>2026-now, Kanupriya Jain, PhD thesis, University of Saarland </li> 
+<li>2026-now, Rithvika Pervala, Research assistant, University of Saarland </li>
+<li>2026, Wasif Khizar, Master thesis, University of Saarland</li>
 
 
-In the past, I have supervised the following academic projects:
+In the past, I have supervised the following students or academic projects:
 
+<li>2026  Eshaan Tanwar, Intern, University of Copenhagen </li>
+<li>2026  Ali Shahzaib, Intern, LUMS</li>
+<li>2026  Syeda Zahra Ali Tirmizey, Intern, LUMS </li>
 <li>2025, Mathis Ayma, Master semester project, EPFL</li>
 <li>2025, Ahyoung Seo, Master semester project, EPFL</li>
 <li>2024, Eric Saikali, Master semester project, EPFL</li>
